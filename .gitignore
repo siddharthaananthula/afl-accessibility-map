@@ -32,3 +32,17 @@ outputs/temp/
 # Environment
 .env
 *.env
+
+# OSMnx cache (transient API response cache, don't commit)
+cache/
+
+# Large OSM PBF dumps (downloaded automatically, don't commit)
+*.osm.pbf
+
+# Large geospatial outputs (regeneratable from pipeline)
+data/raw/*.geojson
+data/raw/*.osm.pbf
+
+# Keep small CSVs and the gitkeep
+!data/raw/.gitkeep
+!data/raw/*.csv
