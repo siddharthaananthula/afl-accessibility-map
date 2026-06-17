@@ -1,0 +1,253 @@
+name,addr:postcode,operator,website,_region,latitude,longitude,sa2_code,sa2_name,sa3_name,region,irsd_decile,irsd_score
+Tullamarine Football Club,,,https://www.tullamarinefc.org.au/,Melbourne NW,-37.7026577,144.875213,210051250,Tullamarine,Tullamarine - Broadmeadows,Greater Melbourne,3.0,968.8273737
+Werribee Football Club,,,,Melbourne NW,-37.904328,144.6522896,213051368,Werribee - South,Wyndham,Greater Melbourne,5.0,1005.075015
+Arden Street Oval,,,,Melbourne NW,-37.79898031096704,144.94146672679878,206041506,North Melbourne,Melbourne City,Greater Melbourne,4.0,980.6817516
+Nipper Jordan Oval,,,,Melbourne NW,-37.74481839534473,144.89664774709766,206031501,Essendon (West) - Aberfeldie,Essendon,Greater Melbourne,9.0,1073.070064
+Williamstown Football Ground,,,,Melbourne NW,-37.8712839400525,144.90347001965367,213021346,Williamstown,Hobsons Bay,Greater Melbourne,9.0,1066.86909
+Walsh Oval,,,,Melbourne NW,-37.766002343443056,144.90434878621764,206031116,Moonee Ponds,Essendon,Greater Melbourne,9.0,1067.226639
+Monk Oval,,,,Melbourne NW,-37.76709014306677,144.90377017914184,206031116,Moonee Ponds,Essendon,Greater Melbourne,9.0,1067.226639
+Mervyn G Hughes Oval,,,,Melbourne NW,-37.78938671543028,144.8997697825514,213031348,Footscray,Maribyrnong,Greater Melbourne,4.0,986.6255902
+Tony Dodemaide Oval,3011,,,Melbourne NW,-37.79159777420302,144.8994313137378,213031348,Footscray,Maribyrnong,Greater Melbourne,4.0,986.6255902
+Glenroy Football Club,,,,Melbourne NW,-37.70841230486249,144.93409121172706,210031535,Glenroy - East,Moreland - North,Greater Melbourne,2.0,945.1619585
+North Port Oval,,,,Melbourne NW,-37.83076007743698,144.94214543201477,206051511,Port Melbourne Industrial,Port Phillip,Greater Melbourne,9.0,1083.802364
+Sid McGain Oval,,,,Melbourne NW,-37.72740998527848,144.9211221774785,210011231,Strathmore,Keilor,Greater Melbourne,10.0,1089.215045
+Skinner Reserve,,,,Melbourne NW,-37.78715277311967,144.85523570575816,213031347,Braybrook,Maribyrnong,Greater Melbourne,2.0,925.0803233
+Clifton Park,,,,Melbourne NW,-37.75635768127863,144.8912644586292,206031501,Essendon (West) - Aberfeldie,Essendon,Greater Melbourne,9.0,1073.070064
+Melton Football Ground,,,,Melbourne NW,-37.68552491240779,144.59053737878205,213041577,Melton,Melton - Bacchus Marsh,Greater Melbourne,1.0,849.358245
+Keith Miller Oval,,,,Melbourne NW,-37.795823900829305,144.8361394924749,213011336,Sunshine,Brimbank,Greater Melbourne,2.0,931.133211
+Bryan Martin Oval,,,,Melbourne NW,-37.84519328740942,144.8807788728747,213021344,Newport,Hobsons Bay,Greater Melbourne,9.0,1074.894897
+Gaynor Reserve,,,,Melbourne NW,-37.68890176514241,144.89950560781872,210051245,Gladstone Park - Westmeadows,Tullamarine - Broadmeadows,Greater Melbourne,4.0,979.0166167
+Shehan Oval,,,,Melbourne NW,-37.834961127153115,144.916122694812,206051511,Port Melbourne Industrial,Port Phillip,Greater Melbourne,9.0,1083.802364
+Highgate Stadium,,,,Melbourne NW,-37.576805125160476,144.92338131548138,210051442,Craigieburn - North,Tullamarine - Broadmeadows,Greater Melbourne,3.0,968.1029565
+Willowbrook Oval,,,,Melbourne NW,-37.67570272805134,144.8836199189395,210051245,Gladstone Park - Westmeadows,Tullamarine - Broadmeadows,Greater Melbourne,4.0,979.0166167
+Cyril Curtain Reserve,,,,Melbourne NW,-37.87124141315567,144.90348481971134,213021346,Williamstown,Hobsons Bay,Greater Melbourne,9.0,1066.86909
+Joseph Brown Oval,,,,Melbourne NW,-37.71750283460491,144.8340202128248,210011228,Keilor,Keilor,Greater Melbourne,8.0,1052.264046
+Featherbrook Oval,,,,Melbourne NW,-37.89974286310423,144.73017124981428,213051466,Point Cook - South,Wyndham,Greater Melbourne,9.0,1072.377869
+Essendon Football Club Headquarters,,,https://www.essendonfc.com.au/club/contact-us,Melbourne NW,-37.69076127009468,144.87033555003836,210051248,Melbourne Airport,Tullamarine - Broadmeadows,Greater Melbourne,8.0,1064.104799
+J W Woodruff Oval,,,,Melbourne NW,-37.83254110642629,144.93089919453863,206051511,Port Melbourne Industrial,Port Phillip,Greater Melbourne,9.0,1083.802364
+A T Aanensen Oval,,,,Melbourne NW,-37.83271674917784,144.92970130822837,206051511,Port Melbourne Industrial,Port Phillip,Greater Melbourne,9.0,1083.802364
+Clarke Oval,,,,Melbourne NW,-37.573572396908204,144.72229769162735,210041540,Sunbury - South,Sunbury,Greater Melbourne,6.0,1013.540506
+Chirnside Park,,,,Melbourne NW,-37.90476709320304,144.653049716516,213051368,Werribee - South,Wyndham,Greater Melbourne,5.0,1005.075015
+Dennis Family Oval,,,,Melbourne NW,-37.899359418247684,144.62429655339702,213051590,Wyndham Vale - South,Wyndham,Greater Melbourne,3.0,958.3089167
+MacPherson Park Oval 1,,,,Melbourne NW,-37.63593396075039,144.5689800347633,213041576,Kurunjang - Toolern Vale,Melton - Bacchus Marsh,Greater Melbourne,3.0,947.3532796
+Andy Barlow Oval,,,,Melbourne NW,-37.80460243427102,144.87356489492828,213031351,West Footscray - Tottenham,Maribyrnong,Greater Melbourne,6.0,1015.854005
+Primary Senior Grassed Oval,,,,Melbourne NW,-37.909288735223676,144.7557389887299,213051464,Point Cook - East,Wyndham,Greater Melbourne,8.0,1050.505537
+Secondary Senior Grassed Oval,,,,Melbourne NW,-37.90741193198056,144.75442188468634,213051464,Point Cook - East,Wyndham,Greater Melbourne,8.0,1050.505537
+Diggers Rest Oval,,,,Melbourne NW,-37.62086170799933,144.70870295324175,210041539,Diggers Rest,Sunbury,Greater Melbourne,7.0,1036.580052
+Williamstown Superules Football Club,,,https://williamstownsuperules.com.au/,Melbourne NW,-37.827303473570886,144.8327249219468,213021343,Altona North,Hobsons Bay,Greater Melbourne,3.0,967.8926399
+Spotswood Oval,,,,Melbourne NW,-37.826500226851294,144.88500453520976,213021344,Newport,Hobsons Bay,Greater Melbourne,9.0,1074.894897
+Wootten Oval,,,,Melbourne NW,-37.85907102478143,144.65869309009346,213051585,Tarneit - South,Wyndham,Greater Melbourne,4.0,988.3144267
+Wootten Oval,,,,Melbourne NW,-37.85733787825679,144.65830590995768,213051585,Tarneit - South,Wyndham,Greater Melbourne,4.0,988.3144267
+Whitten Oval,,,,Melbourne NW,-37.8001099095726,144.88696274049937,213031348,Footscray,Maribyrnong,Greater Melbourne,4.0,986.6255902
+Senior Synthetic Oval,,,,Melbourne NW,-37.909160779613046,144.75359989277976,213051464,Point Cook - East,Wyndham,Greater Melbourne,8.0,1050.505537
+Laurimar Football Club,3754,,,Melbourne NE,-37.5831639,145.1289543,209041527,Doreen - North,Whittlesea - Wallan,Greater Melbourne,8.0,1051.04692
+Hampton Rovers Football Club,,,,Melbourne NE,-37.933696,145.0111116,208011172,Hampton,Bayside,Greater Melbourne,9.0,1074.188169
+Croydon North MLOC Football Club,,Maroondah City Council,https://www.croydonnorthmloc.com.au/,Melbourne NE,-37.7682157,145.2972575,211031265,Croydon Hills - Warranwood,Maroondah,Greater Melbourne,9.0,1084.780875
+Ringwod Football Club,3134,,https://www.ringwoodfc.com.au/,Melbourne NE,-37.8236289,145.2320177,211031266,Ringwood,Maroondah,Greater Melbourne,6.0,1014.491436
+Doncaster East Football Club,3109,,https://www.defc.com.au/,Melbourne NE,-37.7783683,145.1607013,207021424,Doncaster East - North,Manningham - West,Greater Melbourne,8.0,1058.853944
+Ferntree Gully Eagles Junior Football Club,,,,Melbourne NE,-37.8950574,145.2625247,211011448,Ferntree Gully (South) - Upper Ferntree Gully,Knox,Greater Melbourne,7.0,1042.799902
+Balwyn Football Club,,,,Melbourne NE,-37.8134139,145.0777632,207011147,Balwyn,Boroondara,Greater Melbourne,8.0,1063.831087
+Chirnside Park Football Club,,,,Melbourne NE,-37.7518463,145.3100988,211051275,Chirnside Park,Yarra Ranges,Greater Melbourne,8.0,1059.625125
+Coldstream Football Club,,,,Melbourne NE,-37.7298774,145.3795282,211051278,Lilydale - Coldstream,Yarra Ranges,Greater Melbourne,7.0,1034.907813
+Croydon Football Club,,,,Melbourne NE,-37.7971719,145.2832654,211031450,Croydon - East,Maroondah,Greater Melbourne,5.0,1004.441528
+Doncaster Football Club,,,,Melbourne NE,-37.7842091,145.1332355,207021157,Doncaster,Manningham - West,Greater Melbourne,6.0,1027.430129
+South Croydon Football Club,,,https://sthcroydonfootballclub.com/,Melbourne NE,-37.8090645,145.2680511,211031450,Croydon - East,Maroondah,Greater Melbourne,5.0,1004.441528
+Epping Football Club,3076,,https://eppingfc.com.au/,Melbourne NE,-37.6394383,145.0237035,209041433,Epping (Vic.) - West,Whittlesea - Wallan,Greater Melbourne,4.0,990.9834587
+Old Camberwell Grammarians Football Club,,,,Melbourne NE,-37.8014429,145.0864143,207011148,Balwyn North,Boroondara,Greater Melbourne,9.0,1075.439172
+Bundoora Junior Football Club,,,,Melbourne NE,-37.704333,145.0650438,209011196,Bundoora - East,Banyule,Greater Melbourne,6.0,1023.552441
+Alex S Gillon Oval,,,,Melbourne NE,-37.76382715179721,144.95118751787152,206011496,Brunswick - South,Brunswick - Coburg,Greater Melbourne,9.0,1067.952995
+Punt Road Oval,,,,Melbourne NE,-37.82213522571409,144.98811738234514,206041119,East Melbourne,Melbourne City,Greater Melbourne,10.0,1107.378731
+Frearson Oval,,,,Melbourne NE,-37.91341585435478,145.13778719757335,212051567,Clayton (North) - Notting Hill,Monash,Greater Melbourne,4.0,981.2724921
+University Oval,,,,Melbourne NE,-37.79439238027928,144.96171213292706,206041124,Parkville,Melbourne City,Greater Melbourne,8.0,1055.299155
+Glenferrie Oval,,,https://en.wikipedia.org/wiki/Glenferrie_Oval,Melbourne NE,-37.820629594102876,145.03289789752893,207011519,Hawthorn - North,Boroondara,Greater Melbourne,10.0,1087.65006
+Oval #2,,,,Melbourne NE,-37.866366247383844,145.2481601090768,211011260,Wantirna South,Knox,Greater Melbourne,7.0,1046.404549
+Oval #1,,,,Melbourne NE,-37.86498095073669,145.24861980671585,211011260,Wantirna South,Knox,Greater Melbourne,7.0,1046.404549
+Bob Saker Oval,,,,Melbourne NE,-37.84241713029938,145.16326586808344,211041269,Forest Hill,Whitehorse - East,Greater Melbourne,6.0,1021.469554
+Western Oval,,,,Melbourne NE,-37.778090766295044,144.95306643609817,206041124,Parkville,Melbourne City,Greater Melbourne,8.0,1055.299155
+Ransford Oval,,,,Melbourne NE,-37.77858096227391,144.95533922274979,206041124,Parkville,Melbourne City,Greater Melbourne,8.0,1055.299155
+McAlister Oval,,,,Melbourne NE,-37.77878429034786,144.95675235905253,206041124,Parkville,Melbourne City,Greater Melbourne,8.0,1055.299155
+Ryder Oval,,,,Melbourne NE,-37.77990105795768,144.95525198040798,206041124,Parkville,Melbourne City,Greater Melbourne,8.0,1055.299155
+Southern Reserve,,,,Melbourne NE,-37.93461148789319,145.17723057419474,212051325,Mulgrave,Monash,Greater Melbourne,7.0,1037.505321
+Wellington Reserve,,,,Melbourne NE,-37.92751064818517,145.16291179150795,212051325,Mulgrave,Monash,Greater Melbourne,7.0,1037.505321
+H. G. Smith Oval,,,,Melbourne NE,-37.78746605159152,144.95582900008625,206041124,Parkville,Melbourne City,Greater Melbourne,8.0,1055.299155
+Ian Johnson Oval,,,,Melbourne NE,-37.857333407309554,144.97836267429932,206051514,St Kilda - West,Port Phillip,Greater Melbourne,8.0,1051.681882
+Ross Gregory Oval,,,,Melbourne NE,-37.8542668079909,144.9776492828767,206051514,St Kilda - West,Port Phillip,Greater Melbourne,8.0,1051.681882
+Lindsay Hassett Oval,,,,Melbourne NE,-37.85286191862342,144.97125508251617,206051128,Albert Park,Port Phillip,Greater Melbourne,9.0,1084.273674
+Bayswater Oval,,,,Melbourne NE,-37.83696895271175,145.27004481717177,211011251,Bayswater,Knox,Greater Melbourne,5.0,1003.895227
+Scoresby Oval,,,,Melbourne NE,-37.897292380864286,145.23071314186663,211011254,Knoxfield - Scoresby,Knox,Greater Melbourne,8.0,1051.804091
+Edmund Herring Memorial Oval,,,,Melbourne NE,-37.832668248005284,144.97551601019148,206041507,Royal Botanic Gardens Victoria,Melbourne City,Greater Melbourne,,
+Susan Street Oval,,,,Melbourne NE,-37.72028596556847,145.14218097828123,209031209,Eltham,Nillumbik - Kinglake,Greater Melbourne,10.0,1097.974413
+South Oval,,,,Melbourne NE,-37.717354871787066,145.1131100820421,209011202,Montmorency - Briar Hill,Banyule,Greater Melbourne,9.0,1079.754949
+North Oval,,,,Melbourne NE,-37.715711442406274,145.1140036737135,209011202,Montmorency - Briar Hill,Banyule,Greater Melbourne,9.0,1079.754949
+Moorabbin Oval,,,,Melbourne NE,-37.93800892258173,145.0437332166602,208031191,Moorabbin - Heatherton,Kingston,Greater Melbourne,8.0,1047.778202
+Trevor Barker Beach Oval,,,,Melbourne NE,-37.94493168422671,145.0002302758134,208011173,Sandringham - Black Rock,Bayside,Greater Melbourne,10.0,1093.9807
+Croydon Oval,,,,Melbourne NE,-37.79764281407278,145.28401383506477,211031450,Croydon - East,Maroondah,Greater Melbourne,5.0,1004.441528
+Fred Geale Oval,,,,Melbourne NE,-37.8024891047729,145.2833047371308,211031450,Croydon - East,Maroondah,Greater Melbourne,5.0,1004.441528
+Como Park,,,,Melbourne NE,-37.83567260584203,145.00414166602218,206061515,South Yarra - North,Stonnington - West,Greater Melbourne,10.0,1090.427398
+Hadfield Football Club,,,,Melbourne NE,-37.70537085288629,144.95276041834805,210031440,Hadfield,Moreland - North,Greater Melbourne,3.0,970.3678812
+Bennettswood Sports Ground,,,,Melbourne NE,-37.8487274881896,145.11228775915865,207031165,Burwood (Vic.),Whitehorse - West,Greater Melbourne,5.0,1009.557361
+Belgrave Recreation Reserve,,,,Melbourne NE,-37.915683213644876,145.34484697117426,211051274,Belgrave - Selby,Yarra Ranges,Greater Melbourne,9.0,1072.387176
+Benson Oval,3136,,,Melbourne NE,-37.80842497250584,145.27944671248815,211031450,Croydon - East,Maroondah,Greater Melbourne,5.0,1004.441528
+Melbourne Football Club Training Oval,,,,Melbourne NE,-37.826426172333434,144.9874920560409,206041119,East Melbourne,Melbourne City,Greater Melbourne,10.0,1107.378731
+Waverley Park,,,,Melbourne NE,-37.92560197970486,145.1887344995278,212051325,Mulgrave,Monash,Greater Melbourne,7.0,1037.505321
+Main Oval,,,,Melbourne NE,-37.834310168358265,144.97776859999837,206041125,South Yarra - West,Melbourne City,Greater Melbourne,10.0,1102.807847
+Cordner Oval,,,,Melbourne NE,-37.84257205976188,144.98294194187875,206041125,South Yarra - West,Melbourne City,Greater Melbourne,10.0,1102.807847
+De Winton Park Oval,,,,Melbourne NE,-37.74670676948601,145.06813395658523,209011198,Heidelberg - Rosanna,Banyule,Greater Melbourne,9.0,1075.343426
+Emerald Primary School Oval,,,,Melbourne NE,-37.932834159580224,145.44195085048057,212011289,Emerald - Cockatoo,Cardinia,Greater Melbourne,9.0,1065.503532
+Oval 1,,,,Melbourne NE,-37.63920682090583,145.02468014119378,209041433,Epping (Vic.) - West,Whittlesea - Wallan,Greater Melbourne,4.0,990.9834587
+Oval 2,,,,Melbourne NE,-37.638425819170024,145.02271838644668,209041433,Epping (Vic.) - West,Whittlesea - Wallan,Greater Melbourne,4.0,990.9834587
+Surrey Park Football Club,,,,Melbourne NE,-37.8274776346566,145.11645920555893,207031163,Box Hill,Whitehorse - West,Greater Melbourne,4.0,991.0009738
+J A Loughnan Oval,,,,Melbourne NE,-37.83136840361731,145.02605533794494,206071517,Richmond (South) - Cremorne,Yarra,Greater Melbourne,10.0,1105.849271
+Ringwood Secondary College Oval,,,,Melbourne NE,-37.814921853277,145.2398230277305,211031266,Ringwood,Maroondah,Greater Melbourne,6.0,1014.491436
+Pitcher Park,,,,Melbourne NE,-37.77372328872961,145.02859087278648,206021110,Alphington - Fairfield,Darebin - South,Greater Melbourne,9.0,1070.172346
+South East Oval,,,,Melbourne NE,-37.778077850949984,145.04870384774043,209011200,Ivanhoe,Banyule,Greater Melbourne,9.0,1085.470248
+Wadhurst Oval,,,,Melbourne NE,-37.833692963909456,144.9748540294025,206041125,South Yarra - West,Melbourne City,Greater Melbourne,10.0,1102.807847
+Ben Frilay Oval,,,,Melbourne NE,-37.639660344601715,145.18934761309663,209031210,Hurstbridge,Nillumbik - Kinglake,Greater Melbourne,9.0,1068.054539
+TB Garvey Oval,,,,Melbourne NE,-37.689211461259994,145.0671613073502,209011196,Bundoora - East,Banyule,Greater Melbourne,6.0,1023.552441
+Russell Lucas Oval,,,,Melbourne NE,-37.82359233360639,145.2329907310435,211031266,Ringwood,Maroondah,Greater Melbourne,6.0,1014.491436
+Montrose Oval,,,,Melbourne NE,-37.81317750149301,145.34435014056078,211051280,Montrose,Yarra Ranges,Greater Melbourne,9.0,1068.191081
+Shane Warne Oval,,,,Melbourne NE,-37.94697747395194,145.01815270508052,208011173,Sandringham - Black Rock,Bayside,Greater Melbourne,10.0,1093.9807
+Peter Ferrie Oval,,,,Melbourne NE,-37.84162379976835,145.03873084714965,208041194,Malvern - Glen Iris,Stonnington - East,Greater Melbourne,10.0,1097.641343
+Mount Waverley Reserve,,,,Melbourne NE,-37.87251021561403,145.1352280423971,212051323,Mount Waverley - North,Monash,Greater Melbourne,9.0,1064.561604
+W. J. Cox Oval,,,,Melbourne NE,-37.7952072780041,145.0055172033667,206071145,Clifton Hill - Alphington,Yarra,Greater Melbourne,10.0,1094.355915
+H. H. Olney Oval,,,,Melbourne NE,-37.794895370649456,145.007410978177,206071145,Clifton Hill - Alphington,Yarra,Greater Melbourne,10.0,1094.355915
+Sir Arthur Rylah Oval,,,,Melbourne NE,-37.8038878255687,145.0101041356911,207011522,Kew - West,Boroondara,Greater Melbourne,9.0,1080.938503
+Keith Anderson Oval,,,,Melbourne NE,-37.81475795783834,145.06760820843792,207011147,Balwyn,Boroondara,Greater Melbourne,8.0,1063.831087
+Huskisson Recreation Reserve- Sportsfield,,,,Melbourne NE,-37.662122760245175,145.00841828640347,209041530,Lalor - West,Whittlesea - Wallan,Greater Melbourne,2.0,919.2516177
+Brighton Beach Oval,,,,Melbourne NE,-37.92854644153782,144.99100976434545,208011169,Brighton (Vic.),Bayside,Greater Melbourne,10.0,1100.743601
+Woodfull-Miller Oval,,,,Melbourne NE,-37.835198241340315,144.99406080672665,206061515,South Yarra - North,Stonnington - West,Greater Melbourne,10.0,1090.427398
+Strathewen Oval,,,,Melbourne NE,-37.53411070778862,145.26889963368853,209031212,Panton Hill - St Andrews,Nillumbik - Kinglake,Greater Melbourne,10.0,1086.43613
+Olympic Park Oval,3000,,,Melbourne NE,-37.82463862869922,144.98126967810228,206041119,East Melbourne,Melbourne City,Greater Melbourne,10.0,1107.378731
+Hurstbridge High Oval,,,,Melbourne NE,-37.642536634314986,145.18940459124119,209031210,Hurstbridge,Nillumbik - Kinglake,Greater Melbourne,9.0,1068.054539
+Northern Saints Football Club,,,,Melbourne NE,-37.71435050796374,144.97033665310502,210031237,Fawkner,Moreland - North,Greater Melbourne,2.0,936.1842233
+Tony Sheehan Reserve,,,,Melbourne NE,-37.72392709107401,145.04302985114927,209021205,Kingsbury,Darebin - North,Greater Melbourne,5.0,1011.573923
+Mount Pleasant Road Primary School Oval,,,,Melbourne NE,-37.82902952431791,145.18119801628177,211041271,Nunawading,Whitehorse - East,Greater Melbourne,7.0,1041.310192
+St. James Park,,,https://www.boroondara.vic.gov.au/recreation-arts/parks-and-gardens/st-james-park,Melbourne NE,-37.8200008838196,145.02127154953598,207011519,Hawthorn - North,Boroondara,Greater Melbourne,10.0,1087.65006
+Olinda Green Oval,,,,Melbourne NE,-37.854272871988904,145.3742981489443,211051282,Mount Dandenong - Olinda,Yarra Ranges,Greater Melbourne,9.0,1078.631503
+Stintons Reserve Oval,,,,Melbourne NE,-37.76725294701857,145.20411750549786,211021261,Donvale - Park Orchards,Manningham - East,Greater Melbourne,9.0,1082.81992
+Diamond Creek Football Club,,,,Melbourne NE,-37.672516904445686,145.15599896823008,209031215,Wattle Glen - Diamond Creek,Nillumbik - Kinglake,Greater Melbourne,9.0,1083.570471
+Warrandyte Football Club,3113,,https://www.warrandytefc.com/,Melbourne NE,-37.74615099929949,145.20747418778626,211021262,Warrandyte - Wonga Park,Manningham - East,Greater Melbourne,10.0,1100.313841
+Coventry Oval,,,,Melbourne NE,-37.6722751152846,145.15492688664776,209031215,Wattle Glen - Diamond Creek,Nillumbik - Kinglake,Greater Melbourne,9.0,1083.570471
+Marngrook Oval,,,,Melbourne NE,-37.67426375310383,145.1542884506452,209031215,Wattle Glen - Diamond Creek,Nillumbik - Kinglake,Greater Melbourne,9.0,1083.570471
+Blackburn Football Club,,,,Melbourne NE,-37.821395057280895,145.15621213967057,207031161,Blackburn,Whitehorse - West,Greater Melbourne,9.0,1068.999185
+Bayswater Football Club,,Knox City Council,,Melbourne NE,-37.83686199014731,145.26901858846378,211011251,Bayswater,Knox,Greater Melbourne,5.0,1003.895227
+Barwon Heads Football Club,,,,Melbourne SW,-38.2869596572778,144.49520612159415,203031489,Barwon Heads - Armstrong Creek,Surf Coast - Bellarine Peninsula,Rest of Vic.,9.0,1075.403948
+Oval,,,,Melbourne SW,-38.18836225372612,144.55932929797385,203031048,Clifton Springs,Surf Coast - Bellarine Peninsula,Rest of Vic.,6.0,1013.845111
+Ron Evans Oval,,,,Melbourne SW,-38.11378781561164,144.64495694887643,203031051,Portarlington,Surf Coast - Bellarine Peninsula,Rest of Vic.,5.0,1001.001291
+Queenscliff Recreation Reserve,,,,Melbourne SW,-38.27245854219421,144.6565579787976,203031052,Point Lonsdale - Queenscliff,Surf Coast - Bellarine Peninsula,Rest of Vic.,9.0,1080.253677
+Drysdale Reserve Football Club,,,https://www.drysdalefc.com.au/,Melbourne SW,-38.17462884247305,144.56190904916585,203031048,Clifton Springs,Surf Coast - Bellarine Peninsula,Rest of Vic.,6.0,1013.845111
+Ray Menzies Oval,,,,Melbourne SW,-38.25927360375037,144.53822766879057,203031490,Ocean Grove,Surf Coast - Bellarine Peninsula,Rest of Vic.,9.0,1073.708848
+The Fitzroy Shop,3195,,www.fitzroyfc.com.au,Melbourne SE,-38.0054411,145.0862949,208031193,Mordialloc - Parkdale,Kingston,Greater Melbourne,9.0,1072.088028
+Narre Warren Football Club,,,,Melbourne SE,-37.9917449,145.304803,212021299,Narre Warren North,Casey - North,Greater Melbourne,9.0,1067.871877
+Phillip Island Football Club,,,,Melbourne SE,-38.4512824,145.2463093,205031091,Phillip Island,Gippsland - South West,Rest of Vic.,5.0,1005.380808
+Berwick Football Club,,,,Melbourne SE,-38.0286123,145.3639783,212021293,Berwick - North,Casey - North,Greater Melbourne,8.0,1057.342594
+Kinetic Stadium,,,,Melbourne SE,-38.1475967,145.1203374,214011371,Frankston,Frankston,Greater Melbourne,4.0,971.7351039
+Beaconsfield Football Club,,,https://www.beaconsfieldfc.com/,Melbourne SE,-38.0370566,145.3728598,212011546,Beaconsfield - Officer,Cardinia,Greater Melbourne,8.0,1056.433868
+Warwick Bayley Oval,,,,Melbourne SE,-38.06474593092344,145.46122305860536,212011552,Pakenham - South West,Cardinia,Greater Melbourne,4.0,989.9932047
+Warwick Bayley Oval,,,,Melbourne SE,-38.06674147922153,145.46047145058532,212011552,Pakenham - South West,Cardinia,Greater Melbourne,4.0,989.9932047
+Narre Warren Football Club,,,,Melbourne SE,-37.99117876931481,145.30540422331882,212021299,Narre Warren North,Casey - North,Greater Melbourne,9.0,1067.871877
+Hallam Recreation Reserve,,,,Melbourne SE,-38.002117792986134,145.27000119220227,212021297,Hallam,Casey - North,Greater Melbourne,2.0,917.2770092
+Oval 5 - Premier Cricket/Junior Football,,,,Melbourne SE,-38.12326151001371,145.31419798280757,212031558,Cranbourne East - South,Casey - South,Greater Melbourne,6.0,1019.35603
+Oval 2,,,,Melbourne SE,-38.12107781630727,145.3107774223981,212031558,Cranbourne East - South,Casey - South,Greater Melbourne,6.0,1019.35603
+Oval 1 - VFL Football,,,,Melbourne SE,-38.11893241623579,145.31012281936904,212031558,Cranbourne East - South,Casey - South,Greater Melbourne,6.0,1019.35603
+Oval 3 - Football/Cricket,,,,Melbourne SE,-38.122524429906925,145.31206974949677,212031558,Cranbourne East - South,Casey - South,Greater Melbourne,6.0,1019.35603
+Oval 4 - Premier Cricket/Junior Football,,,,Melbourne SE,-38.121697254917166,145.31525268191174,212031558,Cranbourne East - South,Casey - South,Greater Melbourne,6.0,1019.35603
+Rendall Oval,,,,Melbourne SE,-37.99552141000344,145.14499295319803,212041566,Keysborough - South,Dandenong,Greater Melbourne,7.0,1039.126293
+Reserve 2,,,,Melbourne SE,-38.07372747148985,145.3369425285115,212021553,Berwick - South East,Casey - North,Greater Melbourne,8.0,1058.749042
+Thomas Barclay Oval,,,,Melbourne SE,-38.296039694618564,145.1874289765656,214021379,Hastings - Somers,Mornington Peninsula,Greater Melbourne,5.0,1005.732473
+Tyabb North Sports Ground,,,,Melbourne SE,-38.29761599887082,145.1871758828733,214021379,Hastings - Somers,Mornington Peninsula,Greater Melbourne,5.0,1005.732473
+Nar Nar Goon Oval,,,,Melbourne SE,-38.08412721032093,145.5732076808694,212011547,Bunyip - Garfield,Cardinia,Greater Melbourne,7.0,1046.12331
+Noble Park Football Social Club,,,,Melbourne SE,-37.977530551698734,145.1697423586564,212041460,Noble Park - West,Dandenong,Greater Melbourne,1.0,852.645408
+Oval 1,,,,Melbourne SE,-38.148666461990565,145.18953115668333,214011374,Langwarrin,Frankston,Greater Melbourne,7.0,1040.351747
+Oval 2,,,,Melbourne SE,-38.14819490703317,145.19150374135,214011374,Langwarrin,Frankston,Greater Melbourne,7.0,1040.351747
+Oval 3,,,,Melbourne SE,-38.14938090314594,145.19231151080038,214011374,Langwarrin,Frankston,Greater Melbourne,7.0,1040.351747
+Keysborough Football Club,,,,Melbourne SE,-37.99517214958911,145.16821143660349,212041565,Keysborough - North,Dandenong,Greater Melbourne,2.0,914.4904786
+RM Hooper Park,,,,Melbourne SE,-38.28573254018645,145.1379313199415,214021378,Flinders,Mornington Peninsula,Greater Melbourne,10.0,1092.893474
+Skye Prmary School Public Oval,,,,Melbourne SE,-38.11658407254217,145.20095153636726,214011376,Skye - Sandhurst,Frankston,Greater Melbourne,8.0,1048.567469
+Kennedy Community Centre,,Hawthorn Football Club,,Melbourne SE,-37.96592434315118,145.121828283586,212041313,Dingley Village,Dandenong,Greater Melbourne,9.0,1066.427157
+Hogben-Meckiff Oval,,,,Melbourne SE,-37.98502748993176,145.06302916842367,208031190,Mentone,Kingston,Greater Melbourne,8.0,1060.694497
+Langwarrin Junior Football Club,3910,,https://www.langyjfc.com.au/,Melbourne SE,-38.14891511569981,145.1913512162121,214011374,Langwarrin,Frankston,Greater Melbourne,7.0,1040.351747
+West Oval,,,,Melbourne SE,-38.07724742238396,145.13189125168927,208031185,Carrum - Patterson Lakes,Kingston,Greater Melbourne,7.0,1042.978764
+East Oval,,,,Melbourne SE,-38.07674762618019,145.13347962398814,208031185,Carrum - Patterson Lakes,Kingston,Greater Melbourne,7.0,1042.978764
+Frankston Football Club,,,,Melbourne SE,-38.14740501158342,145.12116948130736,214011371,Frankston,Frankston,Greater Melbourne,4.0,971.7351039
+McCartney Oval,,,,Geelong & Bellarine,-38.33602266267524,144.3148246069133,203031053,Torquay,Surf Coast - Bellarine Peninsula,Rest of Vic.,10.0,1096.847321
+GMHBA Stadium,,,,Geelong & Bellarine,-38.15810696140531,144.35460267490583,203021039,Geelong,Geelong,Rest of Vic.,6.0,1016.317519
+Anthony Costa Oval,,,,Geelong & Bellarine,-38.15710512332284,144.35199543328875,203021039,Geelong,Geelong,Rest of Vic.,6.0,1016.317519
+No.2 Oval,,,,Geelong & Bellarine,-38.183331889936404,144.35545192268273,203021037,Belmont,Geelong,Rest of Vic.,6.0,1013.744596
+No.5 Oval,,,,Geelong & Bellarine,-38.183556424087804,144.35687598848568,203021037,Belmont,Geelong,Rest of Vic.,6.0,1013.744596
+No.1 Oval,,,,Geelong & Bellarine,-38.184597978638706,144.35562709722566,203021037,Belmont,Geelong,Rest of Vic.,6.0,1013.744596
+No.3 Oval,,,,Geelong & Bellarine,-38.18199252190976,144.355343421372,203021037,Belmont,Geelong,Rest of Vic.,6.0,1013.744596
+No.4 Oval,,,,Geelong & Bellarine,-38.18211652391669,144.35664177128402,203021037,Belmont,Geelong,Rest of Vic.,6.0,1013.744596
+Walker Oval,,,,Geelong & Bellarine,-38.137434676986366,144.3254080288724,203021040,Geelong West - Hamlyn Heights,Geelong,Rest of Vic.,7.0,1032.798293
+NH Drew Oval,,,,Geelong & Bellarine,-38.13764517107949,144.32687723664148,203021040,Geelong West - Hamlyn Heights,Geelong,Rest of Vic.,7.0,1032.798293
+Shaw Oval,,,,Geelong & Bellarine,-38.14750139380254,144.31774810822222,203021042,Highton,Geelong,Rest of Vic.,9.0,1077.423858
+Mary Bell Oval,,,,Geelong & Bellarine,-38.3367637199446,144.26340096799655,203031053,Torquay,Surf Coast - Bellarine Peninsula,Rest of Vic.,10.0,1096.847321
+Polwarth Oval,,,,Geelong & Bellarine,-38.306833322509014,144.32330962381693,203031053,Torquay,Surf Coast - Bellarine Peninsula,Rest of Vic.,10.0,1096.847321
+Mount Moriac Football Oval,,,,Geelong & Bellarine,-38.21821902213388,144.1967726284995,203011036,Winchelsea,Barwon - West,Rest of Vic.,8.0,1054.023134
+Main Oval,,,,Geelong & Bellarine,-38.15095096090719,144.33902553940675,203021046,Newtown (Vic.),Geelong,Rest of Vic.,9.0,1072.697412
+Grenville Oval,,,,Geelong & Bellarine,-38.30714003601338,144.32504485711192,203031053,Torquay,Surf Coast - Bellarine Peninsula,Rest of Vic.,10.0,1096.847321
+Stinton Oval,,,,Geelong & Bellarine,-38.147496303072664,144.3202471086739,203021042,Highton,Geelong,Rest of Vic.,9.0,1077.423858
+Jarvis Oval,,,,Geelong & Bellarine,-38.203670800074214,144.29572092804557,203021042,Highton,Geelong,Rest of Vic.,9.0,1077.423858
+Oval,,,,Geelong & Bellarine,-38.22012221423964,144.35306197146843,203021485,Charlemont,Geelong,Rest of Vic.,8.0,1050.146417
+Dartmoor Football/Netball Club,,,,Western Victoria,-37.9246673,141.2733313,217011420,Glenelg (Vic.),Glenelg - Southern Grampians,Rest of Vic.,4.0,979.0471626
+Alexandra Oval,,,,Western Victoria,-37.279227036592914,142.92793632305134,215011386,Ararat,Grampians,Rest of Vic.,2.0,928.548849
+Neil (Bull) Millgate Oval,,,,Western Victoria,-37.29146991375765,143.78800988498793,201021010,Creswick - Clunes,Creswick - Daylesford - Ballan,Rest of Vic.,4.0,985.5240483
+Gordon Street Oval,,,,Western Victoria,-37.29060417675778,142.94483569184723,215011386,Ararat,Grampians,Rest of Vic.,2.0,928.548849
+Silvester Oval,,,,Western Victoria,-37.59442238858761,141.6913589247614,217011423,Southern Grampians,Glenelg - Southern Grampians,Rest of Vic.,5.0,1010.964247
+Football/cricket,,,,Western Victoria,-37.04547404692262,143.80924650806625,201031017,Maryborough Surrounds,Maryborough - Pyrenees,Rest of Vic.,2.0,924.6902376
+Western Oval,,,,Western Victoria,-37.56527053159256,143.83914182722447,201011002,Ballarat,Ballarat,Rest of Vic.,7.0,1042.069038
+Forrest Football Club,,,,Western Victoria,-38.50559855765567,143.72635699916728,217031476,Otway,Colac - Corangamite,Rest of Vic.,5.0,1003.817061
+Forrest Recreation Reserve,,,,Western Victoria,-38.506133761033134,143.7267214589707,217031476,Otway,Colac - Corangamite,Rest of Vic.,5.0,1003.817061
+Reid Oval,,,,Western Victoria,-38.37945157746937,142.49521267964076,217041479,Warrnambool - North,Warrnambool,Rest of Vic.,5.0,993.7983589
+Walter Oval,,,,Western Victoria,-38.3814719883764,142.4981802627086,217041479,Warrnambool - North,Warrnambool,Rest of Vic.,5.0,993.7983589
+Mack Oval,,,,Western Victoria,-38.38056189937583,142.5010668368728,217041479,Warrnambool - North,Warrnambool,Rest of Vic.,5.0,993.7983589
+Friendly Societies Oval,,,,Western Victoria,-38.37581140053926,142.46887984461912,217041480,Warrnambool - South,Warrnambool,Rest of Vic.,5.0,998.6073453
+Trinity College Colac - Oval,,,,Western Victoria,-38.35079496825928,143.57569570598395,217031472,Colac,Colac - Corangamite,Rest of Vic.,2.0,938.8010321
+Leura Oval,,,,Western Victoria,-38.24014209707497,143.15221846938556,217031471,Camperdown,Colac - Corangamite,Rest of Vic.,3.0,966.7198922
+Cricket-Football,,,,Western Victoria,-36.702925517236935,142.20368574231833,215011388,Horsham,Grampians,Rest of Vic.,4.0,978.1867775
+Cricket-Football,,,,Western Victoria,-36.703181448785365,142.20213479430143,215011388,Horsham,Grampians,Rest of Vic.,4.0,978.1867775
+College Oval,,,,Western Victoria,-36.71081323174278,142.18340370424957,215011388,Horsham,Grampians,Rest of Vic.,4.0,978.1867775
+City Oval,,,,Western Victoria,-36.72128122348281,142.20117498159152,215011388,Horsham,Grampians,Rest of Vic.,4.0,978.1867775
+Footy/cricket,,,,Western Victoria,-36.74267932638771,141.94949618699926,215011389,Horsham Surrounds,Grampians,Rest of Vic.,8.0,1049.132435
+Footy/cricket,,,,Western Victoria,-38.076215425743726,141.58669396508026,217011420,Glenelg (Vic.),Glenelg - Southern Grampians,Rest of Vic.,4.0,979.0471626
+Willaura Oval,,,,Western Victoria,-37.54489668893835,142.7444042722901,215011387,Ararat Surrounds,Grampians,Rest of Vic.,6.0,1019.529458
+Melville Oval,,,,Western Victoria,-37.74070984050779,142.02218488765644,217011421,Hamilton (Vic.),Glenelg - Southern Grampians,Rest of Vic.,4.0,983.6221462
+Casterton Football Club,,,,Western Victoria,-37.58016922311842,141.40511587279832,217011420,Glenelg (Vic.),Glenelg - Southern Grampians,Rest of Vic.,4.0,979.0471626
+Natte Yallock Sports Ground,,,,Western Victoria,-36.93742445355769,143.47045636861992,201031013,Avoca,Maryborough - Pyrenees,Rest of Vic.,2.0,946.5651034
+Jack Keane Oval,,,,Western Victoria,-38.29724105227702,142.3670501750769,217041478,Moyne - West,Warrnambool,Rest of Vic.,7.0,1040.247521
+Halls Gap Sports Reserve,,,,Western Victoria,-37.135177631510466,142.52005036999032,215011392,Stawell,Grampians,Rest of Vic.,3.0,951.3747046
+Footy/cricket,,,,Western Victoria,-37.152254671326425,142.85129801259555,215011392,Stawell,Grampians,Rest of Vic.,3.0,951.3747046
+Woorndoo Recreation Reserve,,,,Western Victoria,-37.8852850964125,142.79955374036578,217041477,Moyne - East,Warrnambool,Rest of Vic.,5.0,1010.519714
+Katamatite Football Club,,,,Northern Victoria,-36.0763982,145.6901575,216021412,Moira,Moira,Rest of Vic.,4.0,989.1094972
+JC Lowe Oval,,,,Northern Victoria,-36.01218319475763,145.99495447371416,216021414,Yarrawonga,Moira,Rest of Vic.,4.0,973.5780707
+Benalla Showgrounds Oval,,,,Northern Victoria,-36.55415227668121,145.98031102640275,204021063,Benalla,Wangaratta - Benalla,Rest of Vic.,3.0,950.4355162
+Footy/cricket,,,,Northern Victoria,-36.72072816955166,144.6918871746562,216011410,Rushworth,Campaspe,Rest of Vic.,2.0,941.3382188
+Canterbury Park Oval,,,,Northern Victoria,-36.71554102252546,144.25222844190202,202011019,California Gully - Eaglehawk,Bendigo,Rest of Vic.,2.0,911.877959
+Mooroopna Football Netball Club,,,,Northern Victoria,-36.393102627715066,145.3535512121359,216031415,Mooroopna,Shepparton,Rest of Vic.,1.0,889.8430374
+Deakin Reserve,,,,Northern Victoria,-36.37697043245529,145.4078692488805,216031416,Shepparton - North,Shepparton,Rest of Vic.,3.0,961.3295204
+Oval,,,,Northern Victoria,-36.542640929757326,145.9958726233478,204021063,Benalla,Wangaratta - Benalla,Rest of Vic.,3.0,950.4355162
+Glenrowan Recreation Reserve,,,,Northern Victoria,-36.465682321167876,146.216390567477,204021067,Wangaratta Surrounds,Wangaratta - Benalla,Rest of Vic.,7.0,1036.676101
+Footy/cricket,,,,Northern Victoria,-35.99587912517952,145.10997034103275,216021413,Numurkah,Moira,Rest of Vic.,3.0,965.6260804
+Albert Heaney Oval,,,,Northern Victoria,-36.74866371838118,146.00054046292365,204021064,Benalla Surrounds,Wangaratta - Benalla,Rest of Vic.,6.0,1020.717773
+Footy/cricket,,,,Northern Victoria,-36.276184590293035,145.21716143002791,216031419,Shepparton Surrounds - West,Shepparton,Rest of Vic.,4.0,974.6580795
+Bridgewater Recreation Reserve,,,,Northern Victoria,-36.60599632588218,143.94555297996823,202031033,Loddon,Loddon - Elmore,Rest of Vic.,3.0,947.1096165
+Cricket-football,,,,Northern Victoria,-36.26591684833937,144.54111788070827,216011408,Lockington - Gunbower,Campaspe,Rest of Vic.,5.0,998.3763426
+Cricket-football,,,,Northern Victoria,-35.530039703583185,143.95375209922702,215031401,Gannawarra,Murray River - Swan Hill,Rest of Vic.,4.0,972.1846636
+John Foord Oval,2646,,,Northern Victoria,-36.004781379844204,146.39251097501662,,,,,,
+Tyntynder Oval,,,,Northern Victoria,-35.336579421546766,143.55274411131825,215031404,Swan Hill,Murray River - Swan Hill,Rest of Vic.,3.0,961.2820914
+Toolamba Oval,,,,Northern Victoria,-36.49225619626321,145.34331622699676,216031419,Shepparton Surrounds - West,Shepparton,Rest of Vic.,4.0,974.6580795
+Numurkah Showgrounds,,,,Northern Victoria,-36.093332702348874,145.4473469332449,216021413,Numurkah,Moira,Rest of Vic.,3.0,965.6260804
+Gurnett Oval,,,,Northern Victoria,-35.33399099233268,143.55460430155244,215031404,Swan Hill,Murray River - Swan Hill,Rest of Vic.,3.0,961.2820914
+Frank Howley Oval,,,,Northern Victoria,-36.446208179455525,145.22939394596554,216031419,Shepparton Surrounds - West,Shepparton,Rest of Vic.,4.0,974.6580795
+Backhaus Oval,,,,Northern Victoria,-36.77318012923911,144.2547002470591,202011022,Kangaroo Flat - Golden Square,Bendigo,Rest of Vic.,3.0,951.6009899
+Ballantyne Centre,,Tatura Football Club,,Northern Victoria,-36.44490058095995,145.23301030383814,216031419,Shepparton Surrounds - West,Shepparton,Rest of Vic.,4.0,974.6580795
+Rumbalara Football,,,,Northern Victoria,-36.353240120548016,145.39738093801088,216031416,Shepparton - North,Shepparton,Rest of Vic.,3.0,961.3295204
+Nagambie Primary School Oval,,,,Northern Victoria,-36.78888669713261,145.15668613764728,204011058,Nagambie,Upper Goulburn Valley,Rest of Vic.,4.0,988.2670639
+Glengarry Recreation Reserve Football Club,3854,,,Gippsland / East,-38.1266869,146.5691292,205041098,Yallourn North - Glengarry,Latrobe Valley,Rest of Vic.,5.0,1003.280473
+Athletic Field,,,,Gippsland / East,-38.1532616,146.7745019,205051102,Rosedale,Wellington,Rest of Vic.,4.0,991.0019614
+Athletic Field,,,,Gippsland / East,-38.1527853,146.7721298,205051102,Rosedale,Wellington,Rest of Vic.,4.0,991.0019614
+Lochiel Park,,,,Gippsland / East,-37.71163431023904,148.4550385427383,205021085,Orbost,Gippsland - East,Rest of Vic.,2.0,931.8619841
+Fred King Oval,,,,Gippsland / East,-38.126938083322024,146.5701580662708,205041098,Yallourn North - Glengarry,Latrobe Valley,Rest of Vic.,5.0,1003.280473
+No. 1 Oval,,,,Gippsland / East,-38.60077638584704,145.5976442446077,205031093,Wonthaggi - Inverloch,Gippsland - South West,Rest of Vic.,4.0,985.9433531
+Wesburn Oval,,,,Gippsland / East,-37.77332013129542,145.6491924538351,211051286,Yarra Valley,Yarra Ranges,Greater Melbourne,5.0,995.254956
+Bruthen Oval,,,,Gippsland / East,-37.71293624711262,147.83490086627464,205021082,Bruthen - Omeo,Gippsland - East,Rest of Vic.,5.0,1000.050405

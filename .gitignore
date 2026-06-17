@@ -46,3 +46,9 @@ data/raw/*.osm.pbf
 # Keep small CSVs and the gitkeep
 !data/raw/.gitkeep
 !data/raw/*.csv
+
+# Processed geospatial outputs (regeneratable from pipeline)
+data/processed/*.geojson
+
+# Keep small processed CSVs
+!data/processed/*.csv
