@@ -64,20 +64,32 @@ All data is publicly available under open licences. Direct download links below 
 
 ---
 
-## Repository structure
 afl-accessibility-map/
+
 ├── src/
+
 │   ├── data_collection.py     # Day 1: extract AFL venues from OSM
+
 │   ├── seifa_join.py          # Day 2: spatial join with SEIFA deciles
+
 │   ├── transport_stops.py     # Day 3a: consolidate PTV GTFS stops
+
 │   ├── accessibility.py       # Day 3b: per-venue accessibility scoring
+
 │   ├── underserved.py         # Day 4: SA2-level density analysis
+
 │   └── build_map.py           # Day 5: Folium interactive map
+
 ├── data/
+
 │   ├── raw/                   # Source files (gitignored where heavy)
+
 │   └── processed/             # Cleaned, joined CSVs
+
 ├── outputs/                   # Charts and PNG visualisations
+
 └── docs/
+
 └── index.html             # Live interactive map (deployed via Pages)
 
 ---
