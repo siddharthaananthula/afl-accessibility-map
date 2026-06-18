@@ -1,0 +1,525 @@
+sa2_code,sa2_name,sa3_name,region,population,venue_count,venues_per_10k,irsd_decile,irsd_score
+201011001,Alfredton,Ballarat,Rest of Vic.,16835.0,0,0.0,7.0,1034.724179
+201011002,Ballarat,Ballarat,Rest of Vic.,12131.0,1,0.824334350012365,7.0,1042.069038
+201011005,Buninyong,Ballarat,Rest of Vic.,7261.0,0,0.0,9.0,1068.115125
+201011006,Delacombe,Ballarat,Rest of Vic.,10661.0,0,0.0,4.0,982.1979459
+201011007,Smythes Creek,Ballarat,Rest of Vic.,4230.0,0,0.0,8.0,1055.321613
+201011008,Wendouree - Miners Rest,Ballarat,Rest of Vic.,15333.0,0,0.0,2.0,910.4242575
+201011481,Ballarat East - Warrenheip,Ballarat,Rest of Vic.,9691.0,0,0.0,3.0,958.725393
+201011482,Ballarat North - Invermay,Ballarat,Rest of Vic.,14750.0,0,0.0,7.0,1034.273066
+201011483,Canadian - Mount Clear,Ballarat,Rest of Vic.,12225.0,0,0.0,4.0,979.6761549
+201011484,Sebastopol - Redan,Ballarat,Rest of Vic.,13086.0,0,0.0,1.0,881.0807177
+201021009,Bacchus Marsh Surrounds,Creswick - Daylesford - Ballan,Rest of Vic.,6559.0,0,0.0,6.0,1022.058595
+201021010,Creswick - Clunes,Creswick - Daylesford - Ballan,Rest of Vic.,8085.0,1,1.2368583797155226,4.0,985.5240483
+201021011,Daylesford,Creswick - Daylesford - Ballan,Rest of Vic.,9955.0,0,0.0,6.0,1027.855275
+201021012,Gordon (Vic.),Creswick - Daylesford - Ballan,Rest of Vic.,6372.0,0,0.0,7.0,1036.546819
+201031013,Avoca,Maryborough - Pyrenees,Rest of Vic.,3532.0,1,2.8312570781426953,2.0,946.5651034
+201031014,Beaufort,Maryborough - Pyrenees,Rest of Vic.,4644.0,0,0.0,3.0,969.1237593
+201031015,Golden Plains - North,Maryborough - Pyrenees,Rest of Vic.,4894.0,0,0.0,5.0,997.0173714
+201031016,Maryborough (Vic.),Maryborough - Pyrenees,Rest of Vic.,8160.0,0,0.0,1.0,879.0319869
+201031017,Maryborough Surrounds,Maryborough - Pyrenees,Rest of Vic.,5526.0,1,1.8096272167933405,2.0,924.6902376
+202011018,Bendigo,Bendigo,Rest of Vic.,14929.0,0,0.0,2.0,918.8578536
+202011019,California Gully - Eaglehawk,Bendigo,Rest of Vic.,12949.0,1,0.7722604062089736,2.0,911.877959
+202011020,East Bendigo - Kennington,Bendigo,Rest of Vic.,13988.0,0,0.0,5.0,1002.274619
+202011021,Flora Hill - Spring Gully,Bendigo,Rest of Vic.,9437.0,0,0.0,5.0,993.3515206
+202011022,Kangaroo Flat - Golden Square,Bendigo,Rest of Vic.,21043.0,1,0.47521741196597445,3.0,951.6009899
+202011023,Maiden Gully,Bendigo,Rest of Vic.,5518.0,0,0.0,9.0,1071.784851
+202011024,Strathfieldsaye,Bendigo,Rest of Vic.,10719.0,0,0.0,9.0,1078.56497
+202011025,White Hills - Ascot,Bendigo,Rest of Vic.,14446.0,0,0.0,5.0,996.8129458
+202021026,Bendigo Surrounds - South,Heathcote - Castlemaine - Kyneton,Rest of Vic.,8344.0,0,0.0,9.0,1068.322149
+202021027,Castlemaine,Heathcote - Castlemaine - Kyneton,Rest of Vic.,11352.0,0,0.0,5.0,997.9139565
+202021028,Castlemaine Surrounds,Heathcote - Castlemaine - Kyneton,Rest of Vic.,9225.0,0,0.0,6.0,1021.276018
+202021029,Heathcote,Heathcote - Castlemaine - Kyneton,Rest of Vic.,5062.0,0,0.0,3.0,964.6306177
+202021030,Kyneton,Heathcote - Castlemaine - Kyneton,Rest of Vic.,10562.0,0,0.0,7.0,1036.066981
+202021031,Woodend,Heathcote - Castlemaine - Kyneton,Rest of Vic.,7949.0,0,0.0,9.0,1065.173343
+202031032,Bendigo Surrounds - North,Loddon - Elmore,Rest of Vic.,4934.0,0,0.0,5.0,995.1012165
+202031033,Loddon,Loddon - Elmore,Rest of Vic.,7289.0,1,1.3719303059404582,3.0,947.1096165
+203011034,Bannockburn,Barwon - West,Rest of Vic.,7754.0,0,0.0,8.0,1055.124031
+203011035,Golden Plains - South,Barwon - West,Rest of Vic.,8111.0,0,0.0,7.0,1043.310385
+203011036,Winchelsea,Barwon - West,Rest of Vic.,6614.0,1,1.5119443604475356,8.0,1054.023134
+203021037,Belmont,Geelong,Rest of Vic.,15017.0,5,3.329559832190184,6.0,1013.744596
+203021039,Geelong,Geelong,Rest of Vic.,13504.0,2,1.481042654028436,6.0,1016.317519
+203021040,Geelong West - Hamlyn Heights,Geelong,Rest of Vic.,21200.0,2,0.9433962264150942,7.0,1032.798293
+203021042,Highton,Geelong,Rest of Vic.,24034.0,3,1.2482316717982858,9.0,1077.423858
+203021043,Lara,Geelong,Rest of Vic.,20817.0,0,0.0,6.0,1026.60442
+203021044,Leopold,Geelong,Rest of Vic.,13272.0,0,0.0,6.0,1025.567899
+203021045,Newcomb - Moolap,Geelong,Rest of Vic.,15462.0,0,0.0,2.0,919.8791829
+203021046,Newtown (Vic.),Geelong,Rest of Vic.,10445.0,1,0.9573958831977022,9.0,1072.697412
+203021047,North Geelong - Bell Park,Geelong,Rest of Vic.,15795.0,0,0.0,4.0,971.1303001
+203021485,Charlemont,Geelong,Rest of Vic.,10300.0,1,0.970873786407767,8.0,1050.146417
+203021486,Corio - Lovely Banks,Geelong,Rest of Vic.,18325.0,0,0.0,1.0,848.5578737
+203021487,Grovedale - Mount Duneed,Geelong,Rest of Vic.,24763.0,0,0.0,6.0,1031.115896
+203021488,Norlane,Geelong,Rest of Vic.,9051.0,0,0.0,1.0,764.2564954
+203031048,Clifton Springs,Surf Coast - Bellarine Peninsula,Rest of Vic.,16797.0,2,1.1906888134785973,6.0,1013.845111
+203031049,Lorne - Anglesea,Surf Coast - Bellarine Peninsula,Rest of Vic.,6234.0,0,0.0,9.0,1078.331438
+203031051,Portarlington,Surf Coast - Bellarine Peninsula,Rest of Vic.,9536.0,1,1.0486577181208054,5.0,1001.001291
+203031052,Point Lonsdale - Queenscliff,Surf Coast - Bellarine Peninsula,Rest of Vic.,5519.0,1,1.811922449719152,9.0,1080.253677
+203031053,Torquay,Surf Coast - Bellarine Peninsula,Rest of Vic.,24607.0,4,1.6255537042305035,10.0,1096.847321
+203031489,Barwon Heads - Armstrong Creek,Surf Coast - Bellarine Peninsula,Rest of Vic.,11333.0,1,0.8823788934968675,9.0,1075.403948
+203031490,Ocean Grove,Surf Coast - Bellarine Peninsula,Rest of Vic.,19394.0,1,0.5156233886769104,9.0,1073.708848
+204011054,Alexandra,Upper Goulburn Valley,Rest of Vic.,6828.0,0,0.0,4.0,989.3712057
+204011055,Euroa,Upper Goulburn Valley,Rest of Vic.,6922.0,0,0.0,4.0,978.271778
+204011056,Kilmore - Broadford,Upper Goulburn Valley,Rest of Vic.,15563.0,0,0.0,5.0,1001.764604
+204011057,Mansfield (Vic.),Upper Goulburn Valley,Rest of Vic.,10517.0,0,0.0,6.0,1027.553871
+204011058,Nagambie,Upper Goulburn Valley,Rest of Vic.,4537.0,1,2.204099625303064,4.0,988.2670639
+204011059,Seymour,Upper Goulburn Valley,Rest of Vic.,6569.0,0,0.0,1.0,901.6619104
+204011060,Seymour Surrounds,Upper Goulburn Valley,Rest of Vic.,4645.0,0,0.0,7.0,1046.078702
+204011061,Upper Yarra Valley,Upper Goulburn Valley,Rest of Vic.,238.0,0,0.0,2.0,915.9536661
+204011062,Yea,Upper Goulburn Valley,Rest of Vic.,4182.0,0,0.0,5.0,995.3334561
+204021063,Benalla,Wangaratta - Benalla,Rest of Vic.,10822.0,2,1.8480872297172428,3.0,950.4355162
+204021064,Benalla Surrounds,Wangaratta - Benalla,Rest of Vic.,3781.0,1,2.644802962179318,6.0,1020.717773
+204021065,Rutherglen,Wangaratta - Benalla,Rest of Vic.,4047.0,0,0.0,4.0,987.1036526
+204021066,Wangaratta,Wangaratta - Benalla,Rest of Vic.,19882.0,0,0.0,3.0,964.1621511
+204021067,Wangaratta Surrounds,Wangaratta - Benalla,Rest of Vic.,9925.0,1,1.0075566750629723,7.0,1036.676101
+204031068,Beechworth,Wodonga - Alpine,Rest of Vic.,4986.0,0,0.0,6.0,1029.171007
+204031069,Bright - Mount Beauty,Wodonga - Alpine,Rest of Vic.,8903.0,0,0.0,7.0,1045.516541
+204031070,Chiltern - Indigo Valley,Wodonga - Alpine,Rest of Vic.,3184.0,0,0.0,6.0,1020.745212
+204031071,Myrtleford,Wodonga - Alpine,Rest of Vic.,4745.0,0,0.0,4.0,991.9319664
+204031072,Towong,Wodonga - Alpine,Rest of Vic.,6196.0,0,0.0,5.0,1000.349436
+204031073,West Wodonga,Wodonga - Alpine,Rest of Vic.,15396.0,0,0.0,3.0,961.2491877
+204031075,Yackandandah,Wodonga - Alpine,Rest of Vic.,5221.0,0,0.0,9.0,1068.40776
+204031491,Baranduda - Leneva,Wodonga - Alpine,Rest of Vic.,12778.0,0,0.0,8.0,1054.183363
+204031492,Wodonga,Wodonga - Alpine,Rest of Vic.,15082.0,0,0.0,2.0,919.6584493
+205011076,Drouin,Baw Baw,Rest of Vic.,19773.0,0,0.0,4.0,990.1378577
+205011077,Mount Baw Baw Region,Baw Baw,Rest of Vic.,6585.0,0,0.0,6.0,1019.462189
+205011078,Trafalgar (Vic.),Baw Baw,Rest of Vic.,8368.0,0,0.0,5.0,1005.426634
+205011079,Warragul,Baw Baw,Rest of Vic.,23051.0,0,0.0,5.0,1009.513115
+205021080,Alps - East,Gippsland - East,Rest of Vic.,,0,,,
+205021081,Bairnsdale,Gippsland - East,Rest of Vic.,15684.0,0,0.0,3.0,951.3854726
+205021082,Bruthen - Omeo,Gippsland - East,Rest of Vic.,8290.0,1,1.2062726176115801,5.0,1000.050405
+205021083,Lake King,Gippsland - East,Rest of Vic.,,0,,,
+205021084,Lakes Entrance,Gippsland - East,Rest of Vic.,11164.0,0,0.0,3.0,955.4317599
+205021085,Orbost,Gippsland - East,Rest of Vic.,6727.0,1,1.486546751895347,2.0,931.8619841
+205021086,Paynesville,Gippsland - East,Rest of Vic.,6977.0,0,0.0,4.0,989.0073054
+205031087,Foster,Gippsland - South West,Rest of Vic.,9446.0,0,0.0,5.0,1004.552227
+205031088,French Island,Gippsland - South West,Rest of Vic.,139.0,0,0.0,5.0,997.4419908
+205031089,Korumburra,Gippsland - South West,Rest of Vic.,9842.0,0,0.0,5.0,1006.426306
+205031090,Leongatha,Gippsland - South West,Rest of Vic.,11502.0,0,0.0,5.0,998.4678305
+205031091,Phillip Island,Gippsland - South West,Rest of Vic.,13799.0,1,0.7246901949416625,5.0,1005.380808
+205031092,Wilsons Promontory,Gippsland - South West,Rest of Vic.,,0,,,
+205031093,Wonthaggi - Inverloch,Gippsland - South West,Rest of Vic.,26792.0,1,0.37324574499850705,4.0,985.9433531
+205041094,Churchill,Latrobe Valley,Rest of Vic.,11912.0,0,0.0,4.0,974.3436586
+205041095,Moe - Newborough,Latrobe Valley,Rest of Vic.,17291.0,0,0.0,1.0,876.8906099
+205041096,Morwell,Latrobe Valley,Rest of Vic.,14432.0,0,0.0,1.0,824.4990638
+205041098,Yallourn North - Glengarry,Latrobe Valley,Rest of Vic.,4707.0,2,4.248990864669641,5.0,1003.280473
+205041493,Traralgon - East,Latrobe Valley,Rest of Vic.,12000.0,0,0.0,3.0,950.6442931
+205041494,Traralgon - West,Latrobe Valley,Rest of Vic.,16822.0,0,0.0,5.0,1011.333399
+205051099,Alps - West,Wellington,Rest of Vic.,,0,,,
+205051100,Longford - Loch Sport,Wellington,Rest of Vic.,4915.0,0,0.0,4.0,977.5982997
+205051101,Maffra,Wellington,Rest of Vic.,14756.0,0,0.0,4.0,980.4439257
+205051102,Rosedale,Wellington,Rest of Vic.,4928.0,2,4.058441558441559,4.0,991.0019614
+205051103,Sale,Wellington,Rest of Vic.,15301.0,0,0.0,3.0,969.9550561
+205051104,Yarram,Wellington,Rest of Vic.,5605.0,0,0.0,2.0,945.1231703
+206011106,Brunswick East,Brunswick - Coburg,Greater Melbourne,12738.0,0,0.0,9.0,1075.855671
+206011107,Brunswick West,Brunswick - Coburg,Greater Melbourne,14318.0,0,0.0,7.0,1046.854086
+206011109,Pascoe Vale South,Brunswick - Coburg,Greater Melbourne,10390.0,0,0.0,9.0,1069.111952
+206011495,Brunswick - North,Brunswick - Coburg,Greater Melbourne,12890.0,0,0.0,8.0,1054.312012
+206011496,Brunswick - South,Brunswick - Coburg,Greater Melbourne,12983.0,1,0.7702380035430948,9.0,1067.952995
+206011497,Coburg - East,Brunswick - Coburg,Greater Melbourne,12535.0,0,0.0,6.0,1026.526142
+206011498,Coburg - West,Brunswick - Coburg,Greater Melbourne,14031.0,0,0.0,7.0,1041.542236
+206021110,Alphington - Fairfield,Darebin - South,Greater Melbourne,8994.0,1,1.11185234600845,9.0,1070.172346
+206021112,Thornbury,Darebin - South,Greater Melbourne,18919.0,0,0.0,7.0,1047.557059
+206021499,Northcote - East,Darebin - South,Greater Melbourne,15068.0,0,0.0,8.0,1064.408477
+206021500,Northcote - West,Darebin - South,Greater Melbourne,10299.0,0,0.0,9.0,1080.33078
+206031113,Ascot Vale,Essendon,Greater Melbourne,15191.0,0,0.0,6.0,1015.11708
+206031115,Flemington,Essendon,Greater Melbourne,9065.0,0,0.0,2.0,928.8322554
+206031116,Moonee Ponds,Essendon,Greater Melbourne,16224.0,2,1.232741617357002,9.0,1067.226639
+206031501,Essendon (West) - Aberfeldie,Essendon,Greater Melbourne,16042.0,2,1.2467273407305821,9.0,1073.070064
+206031502,Essendon - East,Essendon,Greater Melbourne,12191.0,0,0.0,9.0,1070.653516
+206041117,Carlton,Melbourne City,Greater Melbourne,16655.0,0,0.0,3.0,961.8718414
+206041118,Docklands,Melbourne City,Greater Melbourne,15493.0,0,0.0,7.0,1043.508033
+206041119,East Melbourne,Melbourne City,Greater Melbourne,4896.0,3,6.127450980392156,10.0,1107.378731
+206041120,Flemington Racecourse,Melbourne City,Greater Melbourne,77.0,0,0.0,10.0,1119.247992
+206041121,Kensington (Vic.),Melbourne City,Greater Melbourne,10745.0,0,0.0,7.0,1043.905895
+206041124,Parkville,Melbourne City,Greater Melbourne,7297.0,6,8.222557215293957,8.0,1055.299155
+206041125,South Yarra - West,Melbourne City,Greater Melbourne,6423.0,3,4.670714619336758,10.0,1102.807847
+206041127,West Melbourne - Industrial,Melbourne City,Greater Melbourne,,0,,,
+206041503,Melbourne CBD - East,Melbourne City,Greater Melbourne,9848.0,0,0.0,5.0,995.2892405
+206041504,Melbourne CBD - North,Melbourne City,Greater Melbourne,16870.0,0,0.0,3.0,960.9227089
+206041505,Melbourne CBD - West,Melbourne City,Greater Melbourne,15648.0,0,0.0,5.0,993.6997709
+206041506,North Melbourne,Melbourne City,Greater Melbourne,15637.0,1,0.6395088571976721,4.0,980.6817516
+206041507,Royal Botanic Gardens Victoria,Melbourne City,Greater Melbourne,,1,,,
+206041508,Southbank (West) - South Wharf,Melbourne City,Greater Melbourne,6463.0,0,0.0,8.0,1055.400819
+206041509,Southbank - East,Melbourne City,Greater Melbourne,16101.0,0,0.0,8.0,1052.284565
+206041510,West Melbourne - Residential,Melbourne City,Greater Melbourne,7446.0,0,0.0,7.0,1045.856116
+206051128,Albert Park,Port Phillip,Greater Melbourne,15825.0,1,0.631911532385466,9.0,1084.273674
+206051129,Elwood,Port Phillip,Greater Melbourne,14818.0,0,0.0,9.0,1083.043669
+206051130,Port Melbourne,Port Phillip,Greater Melbourne,16192.0,0,0.0,8.0,1051.752335
+206051134,St Kilda East,Port Phillip,Greater Melbourne,15813.0,0,0.0,9.0,1066.215276
+206051511,Port Melbourne Industrial,Port Phillip,Greater Melbourne,1907.0,4,20.97535395909806,9.0,1083.802364
+206051512,South Melbourne,Port Phillip,Greater Melbourne,11693.0,0,0.0,6.0,1028.574206
+206051513,St Kilda - Central,Port Phillip,Greater Melbourne,11857.0,0,0.0,7.0,1047.36467
+206051514,St Kilda - West,Port Phillip,Greater Melbourne,13858.0,2,1.443209698369173,8.0,1051.681882
+206061135,Armadale,Stonnington - West,Greater Melbourne,9336.0,0,0.0,10.0,1088.849208
+206061136,Prahran - Windsor,Stonnington - West,Greater Melbourne,19119.0,0,0.0,9.0,1075.863969
+206061138,Toorak,Stonnington - West,Greater Melbourne,12953.0,0,0.0,10.0,1104.407271
+206061515,South Yarra - North,Stonnington - West,Greater Melbourne,11192.0,2,1.7869907076483202,10.0,1090.427398
+206061516,South Yarra - South,Stonnington - West,Greater Melbourne,9939.0,0,0.0,6.0,1030.256844
+206071139,Abbotsford,Yarra,Greater Melbourne,9088.0,0,0.0,9.0,1077.085689
+206071140,Carlton North - Princes Hill,Yarra,Greater Melbourne,8186.0,0,0.0,10.0,1086.918761
+206071141,Collingwood,Yarra,Greater Melbourne,9179.0,0,0.0,3.0,961.8584353
+206071142,Fitzroy,Yarra,Greater Melbourne,10431.0,0,0.0,4.0,978.8306873
+206071143,Fitzroy North,Yarra,Greater Melbourne,12781.0,0,0.0,9.0,1066.295397
+206071145,Clifton Hill - Alphington,Yarra,Greater Melbourne,9855.0,2,2.0294266869609334,10.0,1094.355915
+206071517,Richmond (South) - Cremorne,Yarra,Greater Melbourne,17671.0,1,0.5658989304510215,10.0,1105.849271
+206071518,Richmond - North,Yarra,Greater Melbourne,13867.0,0,0.0,4.0,976.8882926
+207011146,Ashburton (Vic.),Boroondara,Greater Melbourne,7952.0,0,0.0,9.0,1081.646793
+207011147,Balwyn,Boroondara,Greater Melbourne,16163.0,2,1.2373940481346286,8.0,1063.831087
+207011148,Balwyn North,Boroondara,Greater Melbourne,21123.0,1,0.47341760166643,9.0,1075.439172
+207011149,Camberwell,Boroondara,Greater Melbourne,21232.0,0,0.0,10.0,1096.586184
+207011150,Glen Iris - East,Boroondara,Greater Melbourne,16829.0,0,0.0,10.0,1116.466336
+207011152,Hawthorn East,Boroondara,Greater Melbourne,15684.0,0,0.0,10.0,1091.299531
+207011154,Kew East,Boroondara,Greater Melbourne,6482.0,0,0.0,10.0,1087.164618
+207011155,Surrey Hills (West) - Canterbury,Boroondara,Greater Melbourne,15944.0,0,0.0,10.0,1102.563671
+207011519,Hawthorn - North,Boroondara,Greater Melbourne,9890.0,2,2.0222446916076846,10.0,1087.65006
+207011520,Hawthorn - South,Boroondara,Greater Melbourne,11957.0,0,0.0,10.0,1087.425206
+207011521,Kew - South,Boroondara,Greater Melbourne,11601.0,0,0.0,10.0,1100.029836
+207011522,Kew - West,Boroondara,Greater Melbourne,13039.0,1,0.7669299792928905,9.0,1080.938503
+207021156,Bulleen,Manningham - West,Greater Melbourne,11289.0,0,0.0,7.0,1047.254961
+207021157,Doncaster,Manningham - West,Greater Melbourne,24814.0,1,0.4029983074071089,6.0,1027.430129
+207021159,Templestowe,Manningham - West,Greater Melbourne,16966.0,0,0.0,9.0,1074.214121
+207021160,Templestowe Lower,Manningham - West,Greater Melbourne,14191.0,0,0.0,8.0,1054.914594
+207021424,Doncaster East - North,Manningham - West,Greater Melbourne,15672.0,1,0.6380806533945891,8.0,1058.853944
+207021425,Doncaster East - South,Manningham - West,Greater Melbourne,15454.0,0,0.0,6.0,1030.450797
+207031161,Blackburn,Whitehorse - West,Greater Melbourne,22106.0,1,0.45236587351850177,9.0,1068.999185
+207031162,Blackburn South,Whitehorse - West,Greater Melbourne,10939.0,0,0.0,8.0,1054.322939
+207031163,Box Hill,Whitehorse - West,Greater Melbourne,22841.0,1,0.4378092027494418,4.0,991.0009738
+207031164,Box Hill North,Whitehorse - West,Greater Melbourne,18126.0,0,0.0,7.0,1041.343586
+207031165,Burwood (Vic.),Whitehorse - West,Greater Melbourne,12336.0,1,0.8106355382619974,5.0,1009.557361
+207031166,Burwood East,Whitehorse - West,Greater Melbourne,10675.0,0,0.0,6.0,1030.762513
+207031167,Surrey Hills (East) - Mont Albert,Whitehorse - West,Greater Melbourne,10166.0,0,0.0,10.0,1095.749409
+208011168,Beaumaris,Bayside,Greater Melbourne,14021.0,0,0.0,10.0,1108.397189
+208011169,Brighton (Vic.),Bayside,Greater Melbourne,22758.0,1,0.43940592319184457,10.0,1100.743601
+208011170,Brighton East,Bayside,Greater Melbourne,16540.0,0,0.0,10.0,1089.867406
+208011171,Highett (West) - Cheltenham,Bayside,Greater Melbourne,12439.0,0,0.0,9.0,1070.683551
+208011172,Hampton,Bayside,Greater Melbourne,18200.0,1,0.5494505494505495,9.0,1074.188169
+208011173,Sandringham - Black Rock,Bayside,Greater Melbourne,17358.0,2,1.1522064754003918,10.0,1093.9807
+208021174,Bentleigh - McKinnon,Glen Eira,Greater Melbourne,24896.0,0,0.0,9.0,1069.137684
+208021176,Carnegie,Glen Eira,Greater Melbourne,18534.0,0,0.0,8.0,1061.976588
+208021177,Caulfield - North,Glen Eira,Greater Melbourne,22362.0,0,0.0,9.0,1085.276452
+208021178,Caulfield - South,Glen Eira,Greater Melbourne,18075.0,0,0.0,9.0,1085.871116
+208021179,Elsternwick,Glen Eira,Greater Melbourne,11904.0,0,0.0,9.0,1085.318729
+208021180,Hughesdale,Glen Eira,Greater Melbourne,7563.0,0,0.0,8.0,1050.905204
+208021181,Murrumbeena,Glen Eira,Greater Melbourne,9369.0,0,0.0,9.0,1077.272163
+208021182,Ormond - Glen Huntly,Glen Eira,Greater Melbourne,13128.0,0,0.0,9.0,1065.524777
+208021426,Bentleigh East - North,Glen Eira,Greater Melbourne,16583.0,0,0.0,9.0,1067.371455
+208021427,Bentleigh East - South,Glen Eira,Greater Melbourne,14057.0,0,0.0,9.0,1075.519861
+208031183,Aspendale Gardens - Waterways,Kingston,Greater Melbourne,8853.0,0,0.0,9.0,1079.533794
+208031184,Braeside,Kingston,Greater Melbourne,,0,,,
+208031185,Carrum - Patterson Lakes,Kingston,Greater Melbourne,12032.0,2,1.6622340425531914,7.0,1042.978764
+208031186,Chelsea - Bonbeach,Kingston,Greater Melbourne,15204.0,0,0.0,7.0,1043.144851
+208031187,Chelsea Heights,Kingston,Greater Melbourne,5393.0,0,0.0,7.0,1047.687206
+208031188,Highett (East) - Cheltenham,Kingston,Greater Melbourne,24085.0,0,0.0,7.0,1046.949595
+208031189,Edithvale - Aspendale,Kingston,Greater Melbourne,13563.0,0,0.0,9.0,1073.466352
+208031190,Mentone,Kingston,Greater Melbourne,13197.0,1,0.7577479730241722,8.0,1060.694497
+208031191,Moorabbin - Heatherton,Kingston,Greater Melbourne,9116.0,1,1.0969723562966214,8.0,1047.778202
+208031192,Moorabbin Airport,Kingston,Greater Melbourne,,0,,,
+208031193,Mordialloc - Parkdale,Kingston,Greater Melbourne,21199.0,1,0.47172036416812113,9.0,1072.088028
+208041194,Malvern - Glen Iris,Stonnington - East,Greater Melbourne,20239.0,1,0.4940955580809328,10.0,1097.641343
+208041195,Malvern East,Stonnington - East,Greater Melbourne,21923.0,0,0.0,10.0,1087.718941
+209011196,Bundoora - East,Banyule,Greater Melbourne,9831.0,2,2.034381039568711,6.0,1023.552441
+209011197,Greensborough,Banyule,Greater Melbourne,20807.0,0,0.0,9.0,1069.736734
+209011198,Heidelberg - Rosanna,Banyule,Greater Melbourne,16039.0,1,0.6234802668495543,9.0,1075.343426
+209011199,Heidelberg West,Banyule,Greater Melbourne,14852.0,0,0.0,3.0,961.7445145
+209011200,Ivanhoe,Banyule,Greater Melbourne,12458.0,1,0.8026970621287526,9.0,1085.470248
+209011201,Ivanhoe East - Eaglemont,Banyule,Greater Melbourne,7740.0,0,0.0,10.0,1117.616022
+209011202,Montmorency - Briar Hill,Banyule,Greater Melbourne,16539.0,2,1.2092629542293971,9.0,1079.754949
+209011203,Viewbank - Yallambie,Banyule,Greater Melbourne,18733.0,0,0.0,9.0,1066.268801
+209011204,Watsonia,Banyule,Greater Melbourne,9236.0,0,0.0,7.0,1046.297617
+209021205,Kingsbury,Darebin - North,Greater Melbourne,10408.0,1,0.9607993850883936,5.0,1011.573923
+209021428,Preston - East,Darebin - North,Greater Melbourne,20711.0,0,0.0,5.0,1003.524952
+209021429,Preston - West,Darebin - North,Greater Melbourne,12696.0,0,0.0,7.0,1034.295536
+209021523,Reservoir - North East,Darebin - North,Greater Melbourne,14795.0,0,0.0,4.0,973.9242317
+209021524,Reservoir - North West,Darebin - North,Greater Melbourne,9801.0,0,0.0,3.0,964.122016
+209021525,Reservoir - South East,Darebin - North,Greater Melbourne,12799.0,0,0.0,3.0,958.1040502
+209021526,Reservoir - South West,Darebin - North,Greater Melbourne,14090.0,0,0.0,5.0,1002.8235
+209031209,Eltham,Nillumbik - Kinglake,Greater Melbourne,23444.0,1,0.4265483705852244,10.0,1097.974413
+209031210,Hurstbridge,Nillumbik - Kinglake,Greater Melbourne,3554.0,2,5.627462014631401,9.0,1068.054539
+209031211,Kinglake,Nillumbik - Kinglake,Greater Melbourne,4204.0,0,0.0,7.0,1038.969496
+209031212,Panton Hill - St Andrews,Nillumbik - Kinglake,Greater Melbourne,5091.0,1,1.9642506383814575,10.0,1086.43613
+209031213,Plenty - Yarrambat,Nillumbik - Kinglake,Greater Melbourne,9454.0,0,0.0,10.0,1096.944051
+209031214,Research - North Warrandyte,Nillumbik - Kinglake,Greater Melbourne,6935.0,0,0.0,10.0,1106.861909
+209031215,Wattle Glen - Diamond Creek,Nillumbik - Kinglake,Greater Melbourne,14417.0,3,2.0808767427342723,9.0,1083.570471
+209041216,Bundoora - North,Whittlesea - Wallan,Greater Melbourne,7350.0,0,0.0,6.0,1026.67689
+209041217,Bundoora - West,Whittlesea - Wallan,Greater Melbourne,6186.0,0,0.0,4.0,983.2850591
+209041220,Mill Park - North,Whittlesea - Wallan,Greater Melbourne,17470.0,0,0.0,5.0,1010.50716
+209041221,Mill Park - South,Whittlesea - Wallan,Greater Melbourne,11240.0,0,0.0,4.0,988.6527456
+209041223,Thomastown,Whittlesea - Wallan,Greater Melbourne,19998.0,0,0.0,1.0,884.8638521
+209041224,Wallan,Whittlesea - Wallan,Greater Melbourne,22627.0,0,0.0,6.0,1016.712836
+209041225,Whittlesea,Whittlesea - Wallan,Greater Melbourne,10661.0,0,0.0,6.0,1030.717377
+209041431,Epping - East,Whittlesea - Wallan,Greater Melbourne,13144.0,0,0.0,3.0,960.7164395
+209041432,Epping - South,Whittlesea - Wallan,Greater Melbourne,8204.0,0,0.0,2.0,927.0433645
+209041433,Epping (Vic.) - West,Whittlesea - Wallan,Greater Melbourne,12143.0,3,2.4705591698921188,4.0,990.9834587
+209041435,South Morang - North,Whittlesea - Wallan,Greater Melbourne,12595.0,0,0.0,8.0,1051.307039
+209041436,South Morang - South,Whittlesea - Wallan,Greater Melbourne,12392.0,0,0.0,6.0,1021.333574
+209041437,Wollert,Whittlesea - Wallan,Greater Melbourne,24407.0,0,0.0,5.0,1001.788902
+209041527,Doreen - North,Whittlesea - Wallan,Greater Melbourne,16299.0,1,0.6135345726731701,8.0,1051.04692
+209041528,Doreen - South,Whittlesea - Wallan,Greater Melbourne,10471.0,0,0.0,7.0,1045.350467
+209041529,Lalor - East,Whittlesea - Wallan,Greater Melbourne,9947.0,0,0.0,1.0,883.8922552
+209041530,Lalor - West,Whittlesea - Wallan,Greater Melbourne,13513.0,1,0.7400281210686006,2.0,919.2516177
+209041531,Mernda - North,Whittlesea - Wallan,Greater Melbourne,11427.0,0,0.0,6.0,1019.448852
+209041532,Mernda - South,Whittlesea - Wallan,Greater Melbourne,11940.0,0,0.0,7.0,1033.690501
+210011226,Airport West,Keilor,Greater Melbourne,8173.0,0,0.0,6.0,1025.533034
+210011227,Essendon Airport,Keilor,Greater Melbourne,,0,,,
+210011228,Keilor,Keilor,Greater Melbourne,8548.0,1,1.169864295741694,8.0,1052.264046
+210011230,Niddrie - Essendon West,Keilor,Greater Melbourne,7460.0,0,0.0,9.0,1067.221506
+210011231,Strathmore,Keilor,Greater Melbourne,10031.0,1,0.9969095803010667,10.0,1089.215045
+210011533,Avondale Heights,Keilor,Greater Melbourne,12388.0,0,0.0,5.0,1008.140083
+210011534,Keilor East,Keilor,Greater Melbourne,15073.0,0,0.0,7.0,1036.23594
+210021232,Gisborne,Macedon Ranges,Greater Melbourne,14222.0,0,0.0,9.0,1079.434041
+210021233,Macedon,Macedon Ranges,Greater Melbourne,3523.0,0,0.0,10.0,1103.402159
+210021234,Riddells Creek,Macedon Ranges,Greater Melbourne,4457.0,0,0.0,9.0,1074.944384
+210021235,Romsey,Macedon Ranges,Greater Melbourne,10765.0,0,0.0,7.0,1046.979663
+210031236,Coburg North,Moreland - North,Greater Melbourne,8425.0,0,0.0,6.0,1017.199374
+210031237,Fawkner,Moreland - North,Greater Melbourne,14002.0,1,0.7141836880445651,2.0,936.1842233
+210031439,Gowanbrae,Moreland - North,Greater Melbourne,3111.0,0,0.0,9.0,1069.447877
+210031440,Hadfield,Moreland - North,Greater Melbourne,6241.0,1,1.602307322544464,3.0,970.3678812
+210031535,Glenroy - East,Moreland - North,Greater Melbourne,14783.0,1,0.6764526821348846,2.0,945.1619585
+210031536,Glenroy - West,Moreland - North,Greater Melbourne,8857.0,0,0.0,5.0,996.1620161
+210031537,Oak Park,Moreland - North,Greater Melbourne,7898.0,0,0.0,8.0,1063.635405
+210031538,Pascoe Vale,Moreland - North,Greater Melbourne,17214.0,0,0.0,7.0,1040.941854
+210041240,Sunbury,Sunbury,Greater Melbourne,13671.0,0,0.0,7.0,1041.037766
+210041539,Diggers Rest,Sunbury,Greater Melbourne,5237.0,1,1.9094901661256445,7.0,1036.580052
+210041540,Sunbury - South,Sunbury,Greater Melbourne,14985.0,1,0.6673340006673341,6.0,1013.540506
+210041541,Sunbury - West,Sunbury,Greater Melbourne,11166.0,0,0.0,7.0,1036.014581
+210051242,Broadmeadows,Tullamarine - Broadmeadows,Greater Melbourne,13859.0,0,0.0,1.0,788.7216461
+210051243,Campbellfield - Coolaroo,Tullamarine - Broadmeadows,Greater Melbourne,16057.0,0,0.0,1.0,790.6909529
+210051245,Gladstone Park - Westmeadows,Tullamarine - Broadmeadows,Greater Melbourne,18024.0,2,1.1096316023080337,4.0,979.0166167
+210051246,Greenvale - Bulla,Tullamarine - Broadmeadows,Greater Melbourne,22095.0,0,0.0,7.0,1032.515532
+210051247,Meadow Heights,Tullamarine - Broadmeadows,Greater Melbourne,14890.0,0,0.0,1.0,799.8751992
+210051248,Melbourne Airport,Tullamarine - Broadmeadows,Greater Melbourne,126.0,1,79.36507936507937,8.0,1064.104799
+210051250,Tullamarine,Tullamarine - Broadmeadows,Greater Melbourne,6576.0,1,1.5206812652068127,3.0,968.8273737
+210051441,Craigieburn - Central,Tullamarine - Broadmeadows,Greater Melbourne,8099.0,0,0.0,2.0,924.5865493
+210051442,Craigieburn - North,Tullamarine - Broadmeadows,Greater Melbourne,12309.0,1,0.8124136810463888,3.0,968.1029565
+210051443,Craigieburn - South,Tullamarine - Broadmeadows,Greater Melbourne,21673.0,0,0.0,2.0,946.2759755
+210051445,Mickleham - Yuroke,Tullamarine - Broadmeadows,Greater Melbourne,23374.0,0,0.0,5.0,1000.921691
+210051542,Craigieburn - North West,Tullamarine - Broadmeadows,Greater Melbourne,9842.0,0,0.0,3.0,965.2594223
+210051543,Craigieburn - West,Tullamarine - Broadmeadows,Greater Melbourne,12999.0,0,0.0,2.0,934.4655584
+210051544,Roxburgh Park (South) - Somerton,Tullamarine - Broadmeadows,Greater Melbourne,9479.0,0,0.0,1.0,894.5585251
+210051545,Roxburgh Park - North,Tullamarine - Broadmeadows,Greater Melbourne,14658.0,0,0.0,1.0,854.1111439
+211011251,Bayswater,Knox,Greater Melbourne,12589.0,2,1.588688537612201,5.0,1003.895227
+211011254,Knoxfield - Scoresby,Knox,Greater Melbourne,16601.0,1,0.6023733510029516,8.0,1051.804091
+211011255,Lysterfield,Knox,Greater Melbourne,6594.0,0,0.0,10.0,1097.277018
+211011256,Rowville - Central,Knox,Greater Melbourne,15418.0,0,0.0,8.0,1053.604971
+211011257,Rowville - North,Knox,Greater Melbourne,7905.0,0,0.0,9.0,1080.705783
+211011258,Rowville - South,Knox,Greater Melbourne,10375.0,0,0.0,9.0,1074.772162
+211011259,Wantirna,Knox,Greater Melbourne,14341.0,0,0.0,7.0,1044.911101
+211011260,Wantirna South,Knox,Greater Melbourne,17942.0,2,1.1147029316687103,7.0,1046.404549
+211011446,Boronia,Knox,Greater Melbourne,23560.0,0,0.0,6.0,1015.157514
+211011447,Ferntree Gully - North,Knox,Greater Melbourne,14145.0,0,0.0,6.0,1013.589737
+211011448,Ferntree Gully (South) - Upper Ferntree Gully,Knox,Greater Melbourne,15334.0,1,0.6521455588887439,7.0,1042.799902
+211011449,The Basin,Knox,Greater Melbourne,4345.0,0,0.0,8.0,1055.667355
+211021261,Donvale - Park Orchards,Manningham - East,Greater Melbourne,16275.0,1,0.6144393241167435,9.0,1082.81992
+211021262,Warrandyte - Wonga Park,Manningham - East,Greater Melbourne,10112.0,1,0.9889240506329113,10.0,1100.313841
+211031263,Bayswater North,Maroondah,Greater Melbourne,11871.0,0,0.0,6.0,1028.706146
+211031265,Croydon Hills - Warranwood,Maroondah,Greater Melbourne,18059.0,1,0.553740517193643,9.0,1084.780875
+211031266,Ringwood,Maroondah,Greater Melbourne,18715.0,3,1.6029922522041145,6.0,1014.491436
+211031267,Ringwood East,Maroondah,Greater Melbourne,21132.0,0,0.0,7.0,1047.708916
+211031268,Ringwood North,Maroondah,Greater Melbourne,9654.0,0,0.0,9.0,1085.277995
+211031450,Croydon - East,Maroondah,Greater Melbourne,16109.0,5,3.1038549878949655,5.0,1004.441528
+211031451,Croydon - West,Maroondah,Greater Melbourne,14139.0,0,0.0,7.0,1031.691406
+211031452,Croydon South,Maroondah,Greater Melbourne,4898.0,0,0.0,7.0,1040.388422
+211041269,Forest Hill,Whitehorse - East,Greater Melbourne,10780.0,1,0.9276437847866419,6.0,1021.469554
+211041270,Mitcham (Vic.),Whitehorse - East,Greater Melbourne,16795.0,0,0.0,8.0,1062.415872
+211041271,Nunawading,Whitehorse - East,Greater Melbourne,12413.0,1,0.8056070248932571,7.0,1041.310192
+211041272,Vermont,Whitehorse - East,Greater Melbourne,10993.0,0,0.0,8.0,1062.947492
+211041273,Vermont South,Whitehorse - East,Greater Melbourne,11954.0,0,0.0,8.0,1059.734
+211051274,Belgrave - Selby,Yarra Ranges,Greater Melbourne,10005.0,1,0.9995002498750625,9.0,1072.387176
+211051275,Chirnside Park,Yarra Ranges,Greater Melbourne,11779.0,1,0.8489685032685287,8.0,1059.625125
+211051276,Healesville - Yarra Glen,Yarra Ranges,Greater Melbourne,14065.0,0,0.0,6.0,1026.762716
+211051277,Kilsyth,Yarra Ranges,Greater Melbourne,9916.0,0,0.0,5.0,1010.100239
+211051278,Lilydale - Coldstream,Yarra Ranges,Greater Melbourne,19599.0,1,0.5102301137813154,7.0,1034.907813
+211051279,Monbulk - Silvan,Yarra Ranges,Greater Melbourne,5816.0,0,0.0,8.0,1050.984154
+211051280,Montrose,Yarra Ranges,Greater Melbourne,6943.0,1,1.440299582313121,9.0,1068.191081
+211051281,Mooroolbark,Yarra Ranges,Greater Melbourne,23146.0,0,0.0,6.0,1030.820135
+211051282,Mount Dandenong - Olinda,Yarra Ranges,Greater Melbourne,9706.0,1,1.030290541932825,9.0,1078.631503
+211051283,Mount Evelyn,Yarra Ranges,Greater Melbourne,9799.0,0,0.0,8.0,1050.987116
+211051284,Upwey - Tecoma,Yarra Ranges,Greater Melbourne,9777.0,0,0.0,9.0,1071.028347
+211051285,Wandin - Seville,Yarra Ranges,Greater Melbourne,7902.0,0,0.0,8.0,1059.730959
+211051286,Yarra Valley,Yarra Ranges,Greater Melbourne,16799.0,1,0.5952735281862015,5.0,995.254956
+212011289,Emerald - Cockatoo,Cardinia,Greater Melbourne,18633.0,1,0.5366822304513498,9.0,1065.503532
+212011546,Beaconsfield - Officer,Cardinia,Greater Melbourne,23632.0,1,0.42315504400812454,8.0,1056.433868
+212011547,Bunyip - Garfield,Cardinia,Greater Melbourne,9868.0,1,1.0133765707336846,7.0,1046.12331
+212011548,Koo Wee Rup,Cardinia,Greater Melbourne,10069.0,0,0.0,6.0,1019.538696
+212011549,Pakenham - North East,Cardinia,Greater Melbourne,15441.0,0,0.0,4.0,979.4867522
+212011550,Pakenham - North West,Cardinia,Greater Melbourne,7479.0,0,0.0,6.0,1025.097542
+212011551,Pakenham - South East,Cardinia,Greater Melbourne,6439.0,0,0.0,3.0,948.0696397
+212011552,Pakenham - South West,Cardinia,Greater Melbourne,26783.0,2,0.746742336556771,4.0,989.9932047
+212021293,Berwick - North,Casey - North,Greater Melbourne,22963.0,1,0.4354831685755346,8.0,1057.342594
+212021295,Doveton,Casey - North,Greater Melbourne,11889.0,0,0.0,1.0,832.0554601
+212021297,Hallam,Casey - North,Greater Melbourne,11472.0,1,0.8716875871687587,2.0,917.2770092
+212021299,Narre Warren North,Casey - North,Greater Melbourne,8241.0,2,2.4268899405411966,9.0,1067.871877
+212021453,Endeavour Hills - North,Casey - North,Greater Melbourne,12086.0,0,0.0,5.0,996.4946778
+212021454,Endeavour Hills - South,Casey - North,Greater Melbourne,13360.0,0,0.0,5.0,998.3281827
+212021455,Narre Warren - North East,Casey - North,Greater Melbourne,13504.0,0,0.0,5.0,1010.381698
+212021456,Narre Warren - South West,Casey - North,Greater Melbourne,14758.0,0,0.0,3.0,953.2876268
+212021553,Berwick - South East,Casey - North,Greater Melbourne,17760.0,1,0.5630630630630631,8.0,1058.749042
+212021554,Berwick - South West,Casey - North,Greater Melbourne,11254.0,0,0.0,7.0,1044.373327
+212031300,Cranbourne,Casey - South,Greater Melbourne,21281.0,0,0.0,2.0,920.2990769
+212031303,Cranbourne South,Casey - South,Greater Melbourne,17400.0,0,0.0,8.0,1053.511407
+212031304,Cranbourne West,Casey - South,Greater Melbourne,21535.0,0,0.0,4.0,989.4744081
+212031306,Lynbrook - Lyndhurst,Casey - South,Greater Melbourne,18027.0,0,0.0,6.0,1020.585775
+212031308,Pearcedale - Tooradin,Casey - South,Greater Melbourne,8024.0,0,0.0,7.0,1035.534296
+212031457,Narre Warren South - East,Casey - South,Greater Melbourne,13152.0,0,0.0,6.0,1030.288856
+212031458,Narre Warren South - West,Casey - South,Greater Melbourne,16713.0,0,0.0,3.0,968.1783621
+212031555,Clyde North - North,Casey - South,Greater Melbourne,10535.0,0,0.0,9.0,1065.857036
+212031556,Clyde North - South,Casey - South,Greater Melbourne,14802.0,0,0.0,7.0,1045.733996
+212031557,Cranbourne East - North,Casey - South,Greater Melbourne,23415.0,0,0.0,5.0,1001.299509
+212031558,Cranbourne East - South,Casey - South,Greater Melbourne,12289.0,5,4.068679306697046,6.0,1019.35603
+212031559,Cranbourne North - East,Casey - South,Greater Melbourne,12772.0,0,0.0,6.0,1013.078417
+212031560,Cranbourne North - West,Casey - South,Greater Melbourne,11910.0,0,0.0,2.0,946.0908799
+212031561,Hampton Park - East,Casey - South,Greater Melbourne,12715.0,0,0.0,2.0,916.6970315
+212031562,Hampton Park - West,Casey - South,Greater Melbourne,13368.0,0,0.0,1.0,892.5909792
+212041309,Clarinda - Oakleigh South,Dandenong,Greater Melbourne,11554.0,0,0.0,4.0,990.0324044
+212041310,Clayton South,Dandenong,Greater Melbourne,13381.0,0,0.0,3.0,954.0459268
+212041312,Dandenong North,Dandenong,Greater Melbourne,22526.0,0,0.0,2.0,926.2576006
+212041313,Dingley Village,Dandenong,Greater Melbourne,10499.0,1,0.9524716639679969,9.0,1066.427157
+212041316,Noble Park North,Dandenong,Greater Melbourne,7456.0,0,0.0,2.0,936.4972064
+212041317,Springvale,Dandenong,Greater Melbourne,22248.0,0,0.0,1.0,845.1678257
+212041318,Springvale South,Dandenong,Greater Melbourne,12621.0,0,0.0,1.0,830.8222505
+212041459,Noble Park - East,Dandenong,Greater Melbourne,12739.0,0,0.0,2.0,904.2402644
+212041460,Noble Park - West,Dandenong,Greater Melbourne,19591.0,1,0.5104384666428462,1.0,852.645408
+212041563,Dandenong - North,Dandenong,Greater Melbourne,21487.0,0,0.0,1.0,827.562527
+212041564,Dandenong - South,Dandenong,Greater Melbourne,9350.0,0,0.0,1.0,817.5942935
+212041565,Keysborough - North,Dandenong,Greater Melbourne,15096.0,1,0.6624271330153684,2.0,914.4904786
+212041566,Keysborough - South,Dandenong,Greater Melbourne,15093.0,1,0.6625588020936858,7.0,1039.126293
+212051319,Ashwood - Chadstone,Monash,Greater Melbourne,19507.0,0,0.0,7.0,1033.104612
+212051321,Glen Waverley - East,Monash,Greater Melbourne,21603.0,0,0.0,8.0,1054.956474
+212051322,Glen Waverley - West,Monash,Greater Melbourne,21036.0,0,0.0,7.0,1038.831665
+212051323,Mount Waverley - North,Monash,Greater Melbourne,16073.0,1,0.6221613886642194,9.0,1064.561604
+212051324,Mount Waverley - South,Monash,Greater Melbourne,19265.0,0,0.0,9.0,1067.849932
+212051325,Mulgrave,Monash,Greater Melbourne,19889.0,3,1.5083714616119464,7.0,1037.505321
+212051326,Oakleigh - Huntingdale,Monash,Greater Melbourne,22928.0,0,0.0,7.0,1037.848351
+212051327,Wheelers Hill,Monash,Greater Melbourne,20652.0,0,0.0,9.0,1065.688634
+212051567,Clayton (North) - Notting Hill,Monash,Greater Melbourne,9829.0,1,1.0173974972021569,4.0,981.2724921
+212051568,Clayton - Central,Monash,Greater Melbourne,12052.0,0,0.0,4.0,982.9454809
+213011328,Ardeer - Albion,Brimbank,Greater Melbourne,7502.0,0,0.0,2.0,902.572601
+213011329,Cairnlea,Brimbank,Greater Melbourne,10038.0,0,0.0,3.0,951.2603906
+213011331,Delahey,Brimbank,Greater Melbourne,8077.0,0,0.0,1.0,899.1988787
+213011332,Keilor Downs,Brimbank,Greater Melbourne,13082.0,0,0.0,3.0,965.0652199
+213011333,Kings Park (Vic.),Brimbank,Greater Melbourne,13983.0,0,0.0,1.0,826.9779531
+213011334,St Albans - North,Brimbank,Greater Melbourne,20581.0,0,0.0,1.0,825.3358934
+213011335,St Albans - South,Brimbank,Greater Melbourne,17454.0,0,0.0,1.0,821.249145
+213011336,Sunshine,Brimbank,Greater Melbourne,9445.0,1,1.058761249338274,2.0,931.133211
+213011337,Sunshine North,Brimbank,Greater Melbourne,12047.0,0,0.0,1.0,864.7831343
+213011338,Sunshine West,Brimbank,Greater Melbourne,18558.0,0,0.0,1.0,884.426059
+213011339,Sydenham,Brimbank,Greater Melbourne,11726.0,0,0.0,4.0,982.7298478
+213011340,Taylors Lakes,Brimbank,Greater Melbourne,16910.0,0,0.0,7.0,1041.992094
+213011569,Deer Park,Brimbank,Greater Melbourne,18004.0,0,0.0,1.0,899.0551598
+213011570,Derrimut,Brimbank,Greater Melbourne,8653.0,0,0.0,4.0,986.8930508
+213021341,Altona,Hobsons Bay,Greater Melbourne,13556.0,0,0.0,7.0,1040.310259
+213021342,Altona Meadows,Hobsons Bay,Greater Melbourne,18479.0,0,0.0,4.0,982.7638274
+213021343,Altona North,Hobsons Bay,Greater Melbourne,14931.0,1,0.6697475051905432,3.0,967.8926399
+213021344,Newport,Hobsons Bay,Greater Melbourne,18753.0,2,1.0664960273022983,9.0,1074.894897
+213021345,Seabrook,Hobsons Bay,Greater Melbourne,4952.0,0,0.0,6.0,1024.00574
+213021346,Williamstown,Hobsons Bay,Greater Melbourne,15912.0,2,1.256913021618904,9.0,1066.86909
+213031347,Braybrook,Maribyrnong,Greater Melbourne,19068.0,1,0.5244388504300398,2.0,925.0803233
+213031348,Footscray,Maribyrnong,Greater Melbourne,17131.0,3,1.7512112544509952,4.0,986.6255902
+213031349,Maribyrnong,Maribyrnong,Greater Melbourne,12573.0,0,0.0,7.0,1044.865817
+213031350,Seddon - Kingsville,Maribyrnong,Greater Melbourne,9247.0,0,0.0,8.0,1059.648677
+213031351,West Footscray - Tottenham,Maribyrnong,Greater Melbourne,11735.0,1,0.8521516829995739,6.0,1015.854005
+213031352,Yarraville,Maribyrnong,Greater Melbourne,15463.0,0,0.0,9.0,1076.595765
+213041353,Bacchus Marsh,Melton - Bacchus Marsh,Greater Melbourne,24717.0,0,0.0,5.0,1011.241467
+213041358,Melton West,Melton - Bacchus Marsh,Greater Melbourne,21208.0,0,0.0,2.0,940.2466254
+213041359,Rockbank - Mount Cottrell,Melton - Bacchus Marsh,Greater Melbourne,17553.0,0,0.0,7.0,1034.934893
+213041360,Taylors Hill,Melton - Bacchus Marsh,Greater Melbourne,19539.0,0,0.0,7.0,1033.637017
+213041461,Burnside,Melton - Bacchus Marsh,Greater Melbourne,5800.0,0,0.0,4.0,981.9626977
+213041462,Burnside Heights,Melton - Bacchus Marsh,Greater Melbourne,6377.0,0,0.0,5.0,1006.290976
+213041463,Caroline Springs,Melton - Bacchus Marsh,Greater Melbourne,20365.0,0,0.0,6.0,1013.942572
+213041571,Brookfield,Melton - Bacchus Marsh,Greater Melbourne,9829.0,0,0.0,3.0,952.1537035
+213041572,Cobblebank - Strathtulloh,Melton - Bacchus Marsh,Greater Melbourne,7598.0,0,0.0,5.0,1006.929816
+213041573,Eynesbury - Exford,Melton - Bacchus Marsh,Greater Melbourne,2990.0,0,0.0,10.0,1089.772164
+213041574,Fraser Rise - Plumpton,Melton - Bacchus Marsh,Greater Melbourne,10098.0,0,0.0,7.0,1046.714168
+213041575,Hillside,Melton - Bacchus Marsh,Greater Melbourne,16182.0,0,0.0,7.0,1035.336161
+213041576,Kurunjang - Toolern Vale,Melton - Bacchus Marsh,Greater Melbourne,11632.0,1,0.859697386519945,3.0,947.3532796
+213041577,Melton,Melton - Bacchus Marsh,Greater Melbourne,7886.0,1,1.26806999746386,1.0,849.358245
+213041578,Melton South - Weir Views,Melton - Bacchus Marsh,Greater Melbourne,16658.0,0,0.0,1.0,877.2332129
+213051361,Hoppers Crossing - North,Wyndham,Greater Melbourne,18446.0,0,0.0,3.0,970.0824866
+213051362,Hoppers Crossing - South,Wyndham,Greater Melbourne,18772.0,0,0.0,2.0,943.994489
+213051363,Laverton,Wyndham,Greater Melbourne,11459.0,0,0.0,5.0,993.0342626
+213051368,Werribee - South,Wyndham,Greater Melbourne,16810.0,2,1.189767995240928,5.0,1005.075015
+213051464,Point Cook - East,Wyndham,Greater Melbourne,19274.0,3,1.5565009857839576,8.0,1050.505537
+213051466,Point Cook - South,Wyndham,Greater Melbourne,19091.0,1,0.5238070294903358,9.0,1072.377869
+213051467,Werribee - East,Wyndham,Greater Melbourne,19010.0,0,0.0,1.0,895.4328579
+213051468,Werribee - West,Wyndham,Greater Melbourne,22341.0,0,0.0,5.0,1007.33776
+213051579,Manor Lakes - Quandong,Wyndham,Greater Melbourne,10616.0,0,0.0,7.0,1040.94133
+213051580,Point Cook - North East,Wyndham,Greater Melbourne,14167.0,0,0.0,7.0,1039.823099
+213051581,Point Cook - North West,Wyndham,Greater Melbourne,9565.0,0,0.0,8.0,1054.451561
+213051582,Tarneit (West) - Mount Cottrell,Wyndham,Greater Melbourne,10132.0,0,0.0,6.0,1025.225881
+213051583,Tarneit - Central,Wyndham,Greater Melbourne,28116.0,0,0.0,6.0,1015.068927
+213051584,Tarneit - North,Wyndham,Greater Melbourne,7197.0,0,0.0,7.0,1031.897502
+213051585,Tarneit - South,Wyndham,Greater Melbourne,11182.0,2,1.7885888034340904,4.0,988.3144267
+213051586,Truganina - North,Wyndham,Greater Melbourne,9340.0,0,0.0,7.0,1040.180372
+213051587,Truganina - South East,Wyndham,Greater Melbourne,9596.0,0,0.0,8.0,1049.858758
+213051588,Truganina - South West,Wyndham,Greater Melbourne,19065.0,0,0.0,5.0,992.2949227
+213051589,Wyndham Vale - North,Wyndham,Greater Melbourne,9032.0,0,0.0,4.0,980.3114443
+213051590,Wyndham Vale - South,Wyndham,Greater Melbourne,13546.0,1,0.7382253063635023,3.0,958.3089167
+214011370,Carrum Downs,Frankston,Greater Melbourne,21976.0,0,0.0,4.0,985.8443321
+214011371,Frankston,Frankston,Greater Melbourne,23586.0,2,0.8479606546256254,4.0,971.7351039
+214011372,Frankston North,Frankston,Greater Melbourne,19453.0,0,0.0,2.0,925.3516306
+214011373,Frankston South,Frankston,Greater Melbourne,18801.0,0,0.0,9.0,1069.497335
+214011374,Langwarrin,Frankston,Greater Melbourne,24939.0,4,1.6039135490597056,7.0,1040.351747
+214011375,Seaford (Vic.),Frankston,Greater Melbourne,17215.0,0,0.0,5.0,997.1731842
+214011376,Skye - Sandhurst,Frankston,Greater Melbourne,13303.0,1,0.7517101405697962,8.0,1048.567469
+214021377,Dromana,Mornington Peninsula,Greater Melbourne,13366.0,0,0.0,6.0,1025.882805
+214021378,Flinders,Mornington Peninsula,Greater Melbourne,5995.0,1,1.6680567139282736,10.0,1092.893474
+214021379,Hastings - Somers,Mornington Peninsula,Greater Melbourne,23970.0,2,0.8343763037129746,5.0,1005.732473
+214021381,Mount Eliza,Mornington Peninsula,Greater Melbourne,18734.0,0,0.0,10.0,1103.553815
+214021382,Mount Martha,Mornington Peninsula,Greater Melbourne,19846.0,0,0.0,9.0,1078.690606
+214021383,Point Nepean,Mornington Peninsula,Greater Melbourne,19811.0,0,0.0,7.0,1039.61485
+214021384,Rosebud - McCrae,Mornington Peninsula,Greater Melbourne,22944.0,0,0.0,4.0,982.4969372
+214021385,Somerville,Mornington Peninsula,Greater Melbourne,18522.0,0,0.0,7.0,1035.688533
+214021591,Mornington - East,Mornington Peninsula,Greater Melbourne,15175.0,0,0.0,6.0,1019.540873
+214021592,Mornington - West,Mornington Peninsula,Greater Melbourne,10581.0,0,0.0,7.0,1043.117385
+215011386,Ararat,Grampians,Rest of Vic.,8500.0,2,2.3529411764705883,2.0,928.548849
+215011387,Ararat Surrounds,Grampians,Rest of Vic.,3204.0,1,3.1210986267166043,6.0,1019.529458
+215011388,Horsham,Grampians,Rest of Vic.,16985.0,4,2.355019134530468,4.0,978.1867775
+215011389,Horsham Surrounds,Grampians,Rest of Vic.,3471.0,1,2.881014116969173,8.0,1049.132435
+215011390,Nhill Region,Grampians,Rest of Vic.,6956.0,0,0.0,3.0,952.8781067
+215011391,St Arnaud,Grampians,Rest of Vic.,3453.0,0,0.0,3.0,951.3208978
+215011392,Stawell,Grampians,Rest of Vic.,8504.0,2,2.351834430856068,3.0,951.3747046
+215011393,West Wimmera,Grampians,Rest of Vic.,2766.0,0,0.0,4.0,982.9150284
+215011394,Yarriambiack,Grampians,Rest of Vic.,6501.0,0,0.0,2.0,944.7365921
+215021395,Irymple,Mildura,Rest of Vic.,7700.0,0,0.0,6.0,1030.646153
+215021396,Merbein,Mildura,Rest of Vic.,4976.0,0,0.0,3.0,958.0830664
+215021398,Mildura Surrounds,Mildura,Rest of Vic.,3726.0,0,0.0,4.0,974.6048257
+215021399,Red Cliffs,Mildura,Rest of Vic.,6138.0,0,0.0,2.0,930.7502821
+215021469,Mildura - North,Mildura,Rest of Vic.,18027.0,0,0.0,1.0,884.5810675
+215021470,Mildura - South,Mildura,Rest of Vic.,16408.0,0,0.0,3.0,948.5396604
+215031400,Buloke,Murray River - Swan Hill,Rest of Vic.,6184.0,0,0.0,4.0,975.0490374
+215031401,Gannawarra,Murray River - Swan Hill,Rest of Vic.,6719.0,1,1.488316713796696,4.0,972.1846636
+215031402,Kerang,Murray River - Swan Hill,Rest of Vic.,3960.0,0,0.0,2.0,918.8353986
+215031403,Robinvale,Murray River - Swan Hill,Rest of Vic.,3740.0,0,0.0,1.0,823.3010565
+215031404,Swan Hill,Murray River - Swan Hill,Rest of Vic.,11186.0,2,1.7879492222420883,3.0,961.2820914
+215031405,Swan Hill Surrounds,Murray River - Swan Hill,Rest of Vic.,6477.0,0,0.0,4.0,972.9384023
+216011406,Echuca,Campaspe,Rest of Vic.,15636.0,0,0.0,3.0,970.5496952
+216011407,Kyabram,Campaspe,Rest of Vic.,11121.0,0,0.0,3.0,960.6146602
+216011408,Lockington - Gunbower,Campaspe,Rest of Vic.,3927.0,1,2.5464731347084286,5.0,998.3763426
+216011409,Rochester,Campaspe,Rest of Vic.,4016.0,0,0.0,3.0,948.4046467
+216011410,Rushworth,Campaspe,Rest of Vic.,4193.0,1,2.3849272597185784,2.0,941.3382188
+216021411,Cobram,Moira,Rest of Vic.,6465.0,0,0.0,2.0,909.9950393
+216021412,Moira,Moira,Rest of Vic.,2843.0,1,3.5174111853675694,4.0,989.1094972
+216021413,Numurkah,Moira,Rest of Vic.,12555.0,2,1.5929908403026682,3.0,965.6260804
+216021414,Yarrawonga,Moira,Rest of Vic.,8661.0,1,1.1546010853250201,4.0,973.5780707
+216031415,Mooroopna,Shepparton,Rest of Vic.,8312.0,1,1.2030798845043311,1.0,889.8430374
+216031416,Shepparton - North,Shepparton,Rest of Vic.,19928.0,2,1.0036130068245686,3.0,961.3295204
+216031418,Shepparton Surrounds - East,Shepparton,Rest of Vic.,4017.0,0,0.0,7.0,1034.365985
+216031419,Shepparton Surrounds - West,Shepparton,Rest of Vic.,10346.0,4,3.8662284941040013,4.0,974.6580795
+216031593,Kialla,Shepparton,Rest of Vic.,9082.0,0,0.0,7.0,1041.973638
+216031594,Shepparton - South East,Shepparton,Rest of Vic.,16520.0,0,0.0,1.0,854.4006287
+217011420,Glenelg (Vic.),Glenelg - Southern Grampians,Rest of Vic.,8920.0,3,3.36322869955157,4.0,979.0471626
+217011421,Hamilton (Vic.),Glenelg - Southern Grampians,Rest of Vic.,10346.0,1,0.9665571235260003,4.0,983.6221462
+217011422,Portland,Glenelg - Southern Grampians,Rest of Vic.,11230.0,0,0.0,2.0,931.0572321
+217011423,Southern Grampians,Glenelg - Southern Grampians,Rest of Vic.,6301.0,1,1.5870496746548166,5.0,1010.964247
+217031471,Camperdown,Colac - Corangamite,Rest of Vic.,3491.0,1,2.864508736751647,3.0,966.7198922
+217031472,Colac,Colac - Corangamite,Rest of Vic.,12756.0,1,0.7839448102853559,2.0,938.8010321
+217031473,Colac Surrounds,Colac - Corangamite,Rest of Vic.,5669.0,0,0.0,6.0,1026.706655
+217031474,Corangamite - North,Colac - Corangamite,Rest of Vic.,5395.0,0,0.0,3.0,962.8160245
+217031475,Corangamite - South,Colac - Corangamite,Rest of Vic.,7180.0,0,0.0,5.0,1009.573395
+217031476,Otway,Colac - Corangamite,Rest of Vic.,4008.0,2,4.99001996007984,5.0,1003.817061
+217041477,Moyne - East,Warrnambool,Rest of Vic.,7018.0,1,1.4249073810202337,5.0,1010.519714
+217041478,Moyne - West,Warrnambool,Rest of Vic.,10014.0,1,0.9986019572598362,7.0,1040.247521
+217041479,Warrnambool - North,Warrnambool,Rest of Vic.,22405.0,3,1.3389868332961392,5.0,993.7983589
+217041480,Warrnambool - South,Warrnambool,Rest of Vic.,13337.0,1,0.7497938067031567,5.0,998.6073453
+297979799,Migratory - Offshore - Shipping (Vic.),Migratory - Offshore - Shipping (Vic.),Migratory - Offshore - Shipping (Vic.),,0,,,
+299999499,No usual address (Vic.),No usual address (Vic.),No usual address (Vic.),,0,,,

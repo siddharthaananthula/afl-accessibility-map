@@ -43,7 +43,8 @@ CLUBS_PATH = DATA_RAW / "afl_clubs_vic.geojson"
 def load_seifa() -> pd.DataFrame:
     """
     Load SEIFA Table 2 (IRSD - Index of Relative Socio-economic Disadvantage).
-    Data starts at row 6 (0-indexed). We want SA2 code, name, and decile.
+    Data starts at row 6 (0-indexed). We pull SA2 code, name, population,
+    score, and decile.
     """
     print("Loading SEIFA IRSD data...")
 
@@ -51,22 +52,25 @@ def load_seifa() -> pd.DataFrame:
         SEIFA_PATH,
         sheet_name="Table 2",
         header=None,
-        skiprows=6,           # skip header rows
-        usecols=[0, 1, 3, 6], # 9-digit code, name, score, decile (within Australia)
-        names=["sa2_code", "sa2_name", "irsd_score", "irsd_decile"],
+        skiprows=6,
+        # Cols: 0=code, 1=name, 2=pop, 3=score, 6=decile
+        usecols=[0, 1, 2, 3, 6],
+        names=["sa2_code", "sa2_name", "population", "irsd_score", "irsd_decile"],
     )
 
-    # Drop the trailing footnote rows that have NaN codes
+    # Drop footnote rows
     df = df.dropna(subset=["sa2_code"])
     df["sa2_code"] = df["sa2_code"].astype(str).str.strip()
 
-    # Decile and score should be numeric; coerce stray strings to NaN
+    # Coerce numerics
+    df["population"] = pd.to_numeric(df["population"], errors="coerce")
     df["irsd_decile"] = pd.to_numeric(df["irsd_decile"], errors="coerce")
     df["irsd_score"] = pd.to_numeric(df["irsd_score"], errors="coerce")
 
-    # Drop areas with no decile (e.g. industrial zones, port areas)
+    # Drop areas with no decile (industrial, port, etc.)
     df = df.dropna(subset=["irsd_decile"])
     df["irsd_decile"] = df["irsd_decile"].astype(int)
+    df["population"] = df["population"].fillna(0).astype(int)
 
     print(f"  {len(df)} SA2 areas with SEIFA scores (national).")
     return df
