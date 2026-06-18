@@ -110,15 +110,6 @@ python src/underserved.py        # SA2-level density analysis
 python src/build_map.py          # Build interactive map → docs/index.html
 ```
 
-
-## After you save
-
-```bash
-git add README.md
-git commit -m "Day 6: add direct data source download links and reproducibility steps"
-git push
-```
-
 ## Author
 
 **Siddhartha Ananthula** — Master of Data Science, RMIT University.
