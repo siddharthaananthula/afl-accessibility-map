@@ -13,8 +13,7 @@ An independent geospatial analysis of 252 AFL community venues across Victoria, 
 **1. AFL venues are spread relatively evenly across SEIFA deciles when normalised by population.**
 At the venue level, 40% of venues sit in advantaged areas (SEIFA deciles 8-10) vs 15% in disadvantaged areas (deciles 1-3). However, once you normalise by population at the SA2 level, the correlation between SEIFA decile and venues-per-10,000-residents is negligible (Pearson r = +0.08, n = 467 SA2s). The simple narrative of "more venues in richer suburbs" doesn't hold up under per-capita analysis.
 
-**2. The real gap is geographic, not socioeconomic — 77% of populated Victorian SA2s have zero mapped AFL venues.**
-Of 467 Victorian SA2s with substantial population (> 5,000 residents), 362 have no AFL venue at all. These gaps concentrate in **outer Melbourne growth corridors** — Tarneit (28k residents, 0 venues), Wollert (24k, 0), Mickleham (23k, 0), Cranbourne East (23k, 0), Bacchus Marsh (25k, 0) — spanning SEIFA deciles 2 through 9. Underservice tracks population growth, not disadvantage.
+**2.The real gap is geographic, not socioeconomic — 69% of populated Victorian SA2s have zero mapped AFL venues.** Of 467 Victorian SA2s with substantial population (> 5,000 residents), 322 have no AFL venue at all. These gaps concentrate in **outer Melbourne growth corridors** — Tarneit (28k residents, 0 venues), Wollert (24k, 0), Mickleham (23k, 0), Cranbourne East (23k, 0), Bacchus Marsh (25k, 0) — spanning SEIFA deciles 2 through 9. Underservice tracks population growth, not disadvantage.
 
 **3. Public transport access to AFL venues varies sharply by SEIFA decile.**
 Composite accessibility scores (weighted across train, tram and bus stops) average 63/100 in decile 10 areas but 29-35/100 in deciles 3-7. Median venue is 1,933m from a train station and 263m from a bus stop. Inner Melbourne venues benefit from the tram network; outer venues rely on infrequent bus services.
@@ -64,33 +63,24 @@ All data is publicly available under open licences. Direct download links below 
 
 ---
 
+## Repository structure
+
+​```
 afl-accessibility-map/
-
 ├── src/
-
-│   ├── data_collection.py     # Day 1: extract AFL venues from OSM
-
-│   ├── seifa_join.py          # Day 2: spatial join with SEIFA deciles
-
-│   ├── transport_stops.py     # Day 3a: consolidate PTV GTFS stops
-
-│   ├── accessibility.py       # Day 3b: per-venue accessibility scoring
-
-│   ├── underserved.py         # Day 4: SA2-level density analysis
-
-│   └── build_map.py           # Day 5: Folium interactive map
-
+│   ├── data_collection.py     # Extract AFL venues from OSM
+│   ├── seifa_join.py          # Spatial join with SEIFA deciles
+│   ├── transport_stops.py     # Consolidate PTV GTFS stops
+│   ├── accessibility.py       # Per-venue accessibility scoring
+│   ├── underserved.py         # SA2-level density analysis
+│   └── build_map.py           # Build the Folium interactive map
 ├── data/
-
 │   ├── raw/                   # Source files (gitignored where heavy)
-
 │   └── processed/             # Cleaned, joined CSVs
-
 ├── outputs/                   # Charts and PNG visualisations
-
 └── docs/
-
-└── index.html             # Live interactive map (deployed via Pages)
+    └── index.html             # Live interactive map (deployed via Pages)
+​```
 
 ---
 
@@ -113,7 +103,7 @@ pip install -r requirements.txt
 #    - sa2_shapefile/  (extracted from the SA2 shapefile zip)
 #    - gtfs_extracted/ (extracted from the PTV gtfs.zip)
 
-# 4. Run pipeline in order (Day 1 → Day 5)
+# 4. Run pipeline in order
 python src/data_collection.py    # Extract 252 AFL venues from OSM
 python src/seifa_join.py         # Tag venues with SEIFA decile
 python src/transport_stops.py    # Consolidate PTV stops

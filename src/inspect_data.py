@@ -1,8 +1,9 @@
 """
 inspect_data.py
 
-Quick inspection of SEIFA + SA2 boundary files to understand their structure
-before writing the join pipeline. Run once, then move on to seifa_join.py.
+One-off exploration script used to figure out the structure of the SEIFA
+Excel file and the SA2 shapefile before writing seifa_join.py. Keep for
+reference / reproducibility but not part of the main pipeline.
 """
 
 import pandas as pd
@@ -17,35 +18,26 @@ SA2_SHP_PATH = DATA_RAW / "sa2_shapefile" / "SA2_2021_AUST_GDA2020.shp"
 
 
 def inspect_seifa():
-    """Look at all sheets in the SEIFA Excel file."""
-    print("=" * 70)
-    print("SEIFA EXCEL FILE")
-    print("=" * 70)
-
+    """Print first 10 rows of each SEIFA sheet to find data start row."""
     xl = pd.ExcelFile(SEIFA_PATH)
-    print(f"\nSheets available: {xl.sheet_names}\n")
+    print(f"Sheets: {xl.sheet_names}\n")
 
-    # Look at each sheet's first few rows (without skipping any rows)
     for sheet in xl.sheet_names:
-        print(f"--- Sheet: {sheet} ---")
+        print(f"-- {sheet} --")
         df = pd.read_excel(SEIFA_PATH, sheet_name=sheet, header=None, nrows=10)
         print(df.to_string())
         print()
 
 
 def inspect_sa2_boundaries():
-    """Look at the SA2 shapefile structure."""
-    print("=" * 70)
-    print("SA2 SHAPEFILE")
-    print("=" * 70)
-
+    """Check SA2 shapefile column names and Victoria filter."""
     gdf = gpd.read_file(SA2_SHP_PATH)
-    print(f"\nTotal SA2 polygons in Australia: {len(gdf)}")
-    print(f"CRS (coordinate reference system): {gdf.crs}")
-    print(f"\nColumns: {list(gdf.columns)}")
-    print(f"\nFirst 5 rows (Victoria filtered):")
+    print(f"Total SA2 polygons (national): {len(gdf)}")
+    print(f"CRS: {gdf.crs}")
+    print(f"Columns: {list(gdf.columns)}")
+
     vic = gdf[gdf["STE_NAME21"] == "Victoria"]
-    print(f"Victoria SA2 polygons: {len(vic)}")
+    print(f"\nVictorian SA2 polygons: {len(vic)}")
     print(vic.head().to_string())
 
 

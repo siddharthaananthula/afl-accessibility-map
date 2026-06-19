@@ -1,13 +1,12 @@
 """
 build_map.py
 
-Day 5 of the Grassroots Footy Accessibility Map.
-
-Builds an interactive Folium/Leaflet map presenting the project's findings.
-Produces a single self-contained HTML file: docs/index.html
+Builds an interactive Folium/Leaflet map of the project's findings as a
+single self-contained HTML file at docs/index.html (deployed via GitHub
+Pages).
 
 Layers:
-  1. AFL venue markers, colour-coded by SEIFA decile of surrounding area
+  1. AFL venue markers, colour-coded by SEIFA decile (point-clustering enabled)
   2. SA2 polygons, choropleth-shaded by venues per 10,000 residents
   3. Top 15 underserved SA2s highlighted with red outlines
 """
@@ -38,51 +37,34 @@ UNDERSERVED_PATH = DATA_PROCESSED / "underserved_areas.csv"
 MELBOURNE_CENTRE = [-37.81, 144.96]
 DEFAULT_ZOOM = 8
 
-
-# ----- 1. Load all the data we built across Days 1-4 -----
-
-def load_data():
-    print("Loading data...")
-    venues = pd.read_csv(FULL_METRICS_PATH)
-    sa2_density = pd.read_csv(SA2_DENSITY_PATH)
-    underserved = pd.read_csv(UNDERSERVED_PATH)
-
-    print("Loading SA2 boundaries (this takes ~10 seconds)...")
-    sa2 = gpd.read_file(SA2_SHP_PATH)
-    sa2 = sa2[sa2["STE_NAME21"] == "Victoria"].copy()
-    sa2 = sa2.rename(columns={
-        "SA2_CODE21": "sa2_code", "SA2_NAME21": "sa2_name",
-    })
-    sa2["sa2_code"] = sa2["sa2_code"].astype(str)
-    sa2_density["sa2_code"] = sa2_density["sa2_code"].astype(str)
-    sa2 = sa2.merge(sa2_density, on="sa2_code", how="left", suffixes=("", "_d"))
-
-    print(f"  Venues: {len(venues)}  |  SA2s: {len(sa2)}  |  Underserved: {len(underserved)}")
-    return venues, sa2, underserved
-
-
-# ----- 2. SEIFA decile colour palette -----
-# Viridis-like, dark purple (low decile = disadvantaged) -> bright yellow (high)
-
+# Viridis palette: dark purple (decile 1, most disadvantaged) -> bright yellow
 SEIFA_COLOURS = {
     1: "#440154", 2: "#482878", 3: "#3e4a89", 4: "#31688e", 5: "#26828e",
     6: "#1f9e89", 7: "#35b779", 8: "#6ece58", 9: "#b5de2b", 10: "#fde725",
 }
 
 
+def load_data():
+    venues = pd.read_csv(FULL_METRICS_PATH)
+    sa2_density = pd.read_csv(SA2_DENSITY_PATH)
+    underserved = pd.read_csv(UNDERSERVED_PATH)
+
+    sa2 = gpd.read_file(SA2_SHP_PATH)
+    sa2 = sa2[sa2["STE_NAME21"] == "Victoria"].copy()
+    sa2 = sa2.rename(columns={"SA2_CODE21": "sa2_code", "SA2_NAME21": "sa2_name"})
+    sa2["sa2_code"] = sa2["sa2_code"].astype(str)
+    sa2_density["sa2_code"] = sa2_density["sa2_code"].astype(str)
+    sa2 = sa2.merge(sa2_density, on="sa2_code", how="left", suffixes=("", "_d"))
+    return venues, sa2, underserved
+
+
 def venue_popup_html(row) -> str:
-    """Build a clean HTML popup for one AFL venue."""
     name = row.get("name") or "Unnamed venue"
     suburb = row.get("sa2_name") or "—"
     decile = row.get("irsd_decile")
     decile_str = f"{int(decile)}" if pd.notna(decile) else "—"
-
     score = row.get("accessibility_score")
     score_str = f"{score:.1f}" if pd.notna(score) else "—"
-
-    dist_train = row.get("dist_train_m")
-    dist_tram = row.get("dist_tram_m")
-    dist_bus = row.get("dist_bus_m")
 
     def fmt_dist(v):
         return f"{v:,.0f} m" if pd.notna(v) else "—"
@@ -94,20 +76,17 @@ def venue_popup_html(row) -> str:
       <table style="font-size:12px; border-collapse:collapse;">
         <tr><td><b>SEIFA decile</b></td><td>{decile_str} / 10</td></tr>
         <tr><td><b>Accessibility</b></td><td>{score_str} / 100</td></tr>
-        <tr><td><b>Train (nearest)</b></td><td>{fmt_dist(dist_train)}</td></tr>
-        <tr><td><b>Tram (nearest)</b></td><td>{fmt_dist(dist_tram)}</td></tr>
-        <tr><td><b>Bus (nearest)</b></td><td>{fmt_dist(dist_bus)}</td></tr>
+        <tr><td><b>Train (nearest)</b></td><td>{fmt_dist(row.get("dist_train_m"))}</td></tr>
+        <tr><td><b>Tram (nearest)</b></td><td>{fmt_dist(row.get("dist_tram_m"))}</td></tr>
+        <tr><td><b>Bus (nearest)</b></td><td>{fmt_dist(row.get("dist_bus_m"))}</td></tr>
       </table>
     </div>
     """
 
 
-# ----- 3. Build the map -----
-
 def build_map(venues: pd.DataFrame,
               sa2: gpd.GeoDataFrame,
               underserved: pd.DataFrame) -> folium.Map:
-    print("Building map...")
     m = folium.Map(
         location=MELBOURNE_CENTRE,
         zoom_start=DEFAULT_ZOOM,
@@ -115,7 +94,7 @@ def build_map(venues: pd.DataFrame,
         control_scale=True,
     )
 
-    # --- Layer: SA2 venue-density choropleth ---
+    # SA2 venue-density choropleth
     sa2_layer = folium.FeatureGroup(name="SA2 venue density", show=False)
     max_density = sa2["venues_per_10k"].dropna().quantile(0.95)
     cmap = LinearColormap(
@@ -132,10 +111,8 @@ def build_map(venues: pd.DataFrame,
             v_num = None
         fill = cmap(v_num) if v_num is not None and v_num == v_num else "#eeeeee"
         return {
-            "fillColor": fill,
-            "color": "#888",
-            "weight": 0.4,
-            "fillOpacity": 0.55,
+            "fillColor": fill, "color": "#888",
+            "weight": 0.4, "fillOpacity": 0.55,
         }
 
     folium.GeoJson(
@@ -148,15 +125,13 @@ def build_map(venues: pd.DataFrame,
                     "venues_per_10k", "irsd_decile"],
             aliases=["Area:", "Population:", "AFL venues:",
                      "Venues per 10k:", "SEIFA decile:"],
-            sticky=True,
-            labels=True,
-            localize=True,
+            sticky=True, labels=True, localize=True,
         ),
     ).add_to(sa2_layer)
     sa2_layer.add_to(m)
     cmap.add_to(m)
 
-    # --- Layer: AFL venues, coloured by SEIFA decile ---
+    # AFL venues, coloured by SEIFA decile
     venues_layer = folium.FeatureGroup(name="AFL venues (by SEIFA decile)", show=True)
     cluster = MarkerCluster(disableClusteringAtZoom=11).add_to(venues_layer)
 
@@ -165,7 +140,6 @@ def build_map(venues: pd.DataFrame,
             continue
         decile = row.get("irsd_decile")
         colour = SEIFA_COLOURS.get(int(decile)) if pd.notna(decile) else "#888"
-
         folium.CircleMarker(
             location=[row["latitude"], row["longitude"]],
             radius=5,
@@ -177,10 +151,9 @@ def build_map(venues: pd.DataFrame,
             popup=folium.Popup(venue_popup_html(row), max_width=300),
             tooltip=row.get("name", ""),
         ).add_to(cluster)
-
     venues_layer.add_to(m)
 
-    # --- Layer: top underserved SA2s highlighted ---
+    # Top underserved SA2s highlighted
     underserved_layer = folium.FeatureGroup(name="Top 15 underserved areas", show=True)
     underserved_names = set(underserved["sa2_name"].astype(str))
     underserved_sa2 = sa2[sa2["sa2_name"].astype(str).isin(underserved_names)]
@@ -209,10 +182,9 @@ def build_map(venues: pd.DataFrame,
             tooltip=feat["sa2_name"],
             popup=folium.Popup(html, max_width=300),
         ).add_to(underserved_layer)
-
     underserved_layer.add_to(m)
 
-    # --- SEIFA decile legend ---
+    # SEIFA decile legend
     legend_html = """
     <div style="position: fixed; bottom: 30px; left: 12px; z-index: 9999;
                 background: white; padding: 10px 12px; border: 1px solid #999;
@@ -232,14 +204,14 @@ def build_map(venues: pd.DataFrame,
     legend_html += "</div>"
     m.get_root().html.add_child(folium.Element(legend_html))
 
-    # --- Title overlay ---
+    # Title overlay
     title_html = """
     <div style="position: fixed; top: 12px; left: 60px; z-index: 9999;
                 background: white; padding: 10px 14px; border: 1px solid #ccc;
                 border-radius: 6px; font-family: Segoe UI, Arial;
                 box-shadow: 0 1px 4px rgba(0,0,0,0.15); max-width: 480px;">
       <div style="font-weight:700; font-size:15px; margin-bottom:4px;">
-        Grassroots Footy Accessibility Map — Victoria
+        Grassroots Footy Accessibility Map &mdash; Victoria
       </div>
       <div style="font-size:12px; color:#444; line-height:1.4;">
         252 AFL community venues mapped against SEIFA disadvantage and PT access.
@@ -256,12 +228,9 @@ def build_map(venues: pd.DataFrame,
 def main():
     venues, sa2, underserved = load_data()
     m = build_map(venues, sa2, underserved)
-
     out_path = DOCS / "index.html"
     m.save(str(out_path))
-    print(f"\nSaved: {out_path}")
-    print(f"File size: {out_path.stat().st_size / 1024 / 1024:.1f} MB")
-    print(f"\nOpen with: start {out_path}  (or double-click in Explorer)")
+    print(f"Saved: {out_path} ({out_path.stat().st_size / 1024 / 1024:.1f} MB)")
 
 
 if __name__ == "__main__":
