@@ -65,7 +65,7 @@ All data is publicly available under open licences. Direct download links below 
 
 ## Repository structure
 
-​```
+```
 afl-accessibility-map/
 ├── src/
 │   ├── data_collection.py     # Extract AFL venues from OSM
@@ -80,7 +80,7 @@ afl-accessibility-map/
 ├── outputs/                   # Charts and PNG visualisations
 └── docs/
     └── index.html             # Live interactive map (deployed via Pages)
-​```
+```
 
 ---
 
